@@ -1,7 +1,7 @@
 ---
 footerBannerContent: ''
 footerBannerTitle: ''
-cutOff: '10'
+cutOff: '9'
 relatedArticles: ''
 readTime: '3'
 coverImage: '/images/gone-girl--2014--Q5MT.webp'
