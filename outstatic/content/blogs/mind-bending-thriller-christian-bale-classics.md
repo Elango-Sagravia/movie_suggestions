@@ -12,7 +12,7 @@ author:
   picture: ''
 status: 'published'
 title: 'Mind-Bending Thriller + Christian Bale Classics'
-publishedAt: '2024-10-11T12:58:56.480Z'
+publishedAt: '2024-10-04T12:58:56.000Z'
 ---
 
 ### [The Prestige (2006)](https://www.imdb.com/title/tt0482571/)
