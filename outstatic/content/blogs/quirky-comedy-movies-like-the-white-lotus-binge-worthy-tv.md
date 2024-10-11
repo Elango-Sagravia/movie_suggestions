@@ -2,6 +2,7 @@
 footerBannerContent: ''
 footerBannerTitle: ''
 cutOff: '9'
+latest: 'true'
 relatedArticles: ''
 readTime: '3'
 coverImage: '/images/the-grand-budapest-hotel--2014--I5MD.webp'
