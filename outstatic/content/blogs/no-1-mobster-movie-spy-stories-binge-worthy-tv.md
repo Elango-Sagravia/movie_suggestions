@@ -16,15 +16,15 @@ title: 'No. 1 Mobster Movie + Spy Stories + Binge-Worthy TV'
 publishedAt: '2024-10-26T15:52:21.000Z'
 ---
 
-### [The Godfather (1972)](https://www.imdb.com/title/tt0068646/?ref_=fn_al_tt_1)  
+### [The Godfather (1972)](https://www.imdb.com/title/tt0068646/?ref_=fn_al_tt_1)
 
 Director: Francis Ford Coppola
 
-Starring: Marlon Brando, Al Pacino, James Caan, Diane Keaton  
+Starring: Marlon Brando, Al Pacino, James Caan, Diane Keaton
 
-Genre: Crime/Drama  
+Genre: Crime/Drama
 
-Ratings: IMDb: 9.2/10; Rotten Tomatoes: 97%  
+Ratings: IMDb: 9.2/10; Rotten Tomatoes: 97%
 
 ---
 
@@ -36,15 +36,15 @@ If you somehow missed The Godfather—though it’s not likely—it’s time to 
 
 ---
 
-### Behind the Scenes 
+### Behind the Scenes
 
 Marlon Brando’s iconic portrayal of Don Vito Corleone was shaped by his decision to stuff cotton balls in his cheeks during his audition, giving his character a distinct, bulldog-like appearance and voice.
 
 ---
 
-### **3 Spy-Based Movies**  
+### 3 Spy-Based Movies
 
-[Salt (2010)](https://www.imdb.com/title/tt0944835/?ref_=fn_al_tt_1) is a fast-paced espionage thriller that keeps you guessing until the very end. Angelina Jolie shines as a CIA officer on the run, accused of being a Russian spy, with non-stop action sequences that will keep you on the edge of your seat. 
+[Salt (2010)](https://www.imdb.com/title/tt0944835/?ref_=fn_al_tt_1) is a fast-paced espionage thriller that keeps you guessing until the very end. Angelina Jolie shines as a CIA officer on the run, accused of being a Russian spy, with non-stop action sequences that will keep you on the edge of your seat.
 
 [Red Sparrow (2018)](https://www.imdb.com/title/tt2873282/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_red%2520sparrow): Jennifer Lawrence plays a ballerina-turned-Russian spy in this tension-filled film. The film has a dark and seductive tone and a plot layered with manipulation, deception, and power struggles.
 
@@ -52,15 +52,15 @@ Marlon Brando’s iconic portrayal of Don Vito Corleone was shaped by his decisi
 
 ---
 
-### **3 Binge-Worthy TV Series**  
+### 3 Binge-Worthy TV Series
 
 [The Americans (2013-2018)](https://www.imdb.com/title/tt2149175/?ref_=fn_al_tt_1) is an intense espionage drama about two Soviet spies living undercover as a married couple in 1980s America. Across six gripping seasons, the show expertly weaves together action, emotional depth, and psychological tension. You’ll love its complex characters and intricate plotlines. If you’re into high-stakes drama that explores loyalty, identity, and moral ambiguity, The Americans is a must-binge series.
 
 ---
 
-### **Where to Watch**  
+### Where to Watch
 
-The Godfather – available on [Paramount+](https://www.paramountplus.com/movies/video/d1xdkOt5uh339gZVfKlF_o6Y65b_yAeD/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c)  
+The Godfather – available on [Paramount+](https://www.paramountplus.com/movies/video/d1xdkOt5uh339gZVfKlF_o6Y65b_yAeD/?searchReferral=desktop-web&source=google-organic&ftag=PPM-23-10bfh8c)
 
 Salt – available on [Prime Video  ](https://www.amazon.com/Salt-Andre-Braugher/dp/B004BEMC6G)
 
@@ -70,10 +70,10 @@ Goodfellas - available on [AppleTV](https://tv.apple.com/us/movie/goodfellas-rem
 
 Red Sparrow – available on [AppleTV](https://tv.apple.com/us/movie/red-sparrow/umc.cmc.25ldi58014wux4etiisa92ia9?action=play)
 
-Tinker Tailor Soldier Spy – available on [Prime Video](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f712-84d1-6b2f-c7c7-bb6ca142fff0?autoplay=0&ref_=atv_cf_strg_wb)  
+Tinker Tailor Soldier Spy – available on [Prime Video](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f712-84d1-6b2f-c7c7-bb6ca142fff0?autoplay=0&ref_=atv_cf_strg_wb)
 
-The Americans – available on [AppleTV ](https://tv.apple.com/us/episode/pilot/umc.cmc.2ckfec1d123p845flabnoy6eg?action=playSmartEpisode) 
+The Americans – available on [AppleTV](https://tv.apple.com/us/episode/pilot/umc.cmc.2ckfec1d123p845flabnoy6eg?action=playSmartEpisode)
 
-Bodyguard – available on [Netflix](https://www.netflix.com/title/80235864)  
+Bodyguard – available on [Netflix](https://www.netflix.com/title/80235864)
 
-Homeland – available on [Hulu](https://tv.apple.com/us/episode/pilot/umc.cmc.29ag364lkm6pi0fd50woh54pd?action=playSmartEpisode)  
+Homeland – available on [Hulu](https://tv.apple.com/us/episode/pilot/umc.cmc.29ag364lkm6pi0fd50woh54pd?action=playSmartEpisode)
