@@ -5,13 +5,13 @@ cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '3'
-coverImage: ''
+coverImage: '/images/the-banshees-of-inisherin--2022--czND.jpg'
 description: ''
 slug: 'dark-comedy-humurously-crude-movies'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Dark Comedy + Humurously Crude Movies'
 publishedAt: '2024-10-26T16:02:16.000Z'
 ---
@@ -31,6 +31,8 @@ Ratings: IMDb: 7.8/10; Rotten Tomatoes: 97%
 ### We Watched It
 
 Set on a remote island off the coast of Ireland, The Banshees of Inisherin is a darkly humorous yet deeply moving exploration of friendship, pride, and loneliness. When lifelong friends Padraic and Colm have a sudden falling out, what starts as a simple disagreement spirals into an increasingly absurd and tragic conflict. Colin Farrell and Brendan Gleeson’s performances are widely praised for their emotional depth and comic timing, capturing the heartbreak and hilarity of their fractured bond. The film mixes dry wit and emotional weight, making it perfect for fans of offbeat, bittersweet stories like *In Bruges*.
+
+![The Banshees of Inisherin (2022)](/images/the-banshees-of-inisherin--2022--M5MT.jpg)
 
 ---
 
@@ -56,9 +58,9 @@ Bad[ Sisters (2022)](https://www.imdb.com/title/tt15469618/?ref_=nv_sr_srsg_0_tt
 
 ---
 
-### Where to Watch 
+### Where to Watch
 
-The Banshees of Inisherin – available on [AppleTV](https://tv.apple.com/us/movie/the-banshees-of-inisherin/umc.cmc.1t34y7y40m382avdbrvj28q85?action=play) 
+The Banshees of Inisherin – available on [AppleTV](https://tv.apple.com/us/movie/the-banshees-of-inisherin/umc.cmc.1t34y7y40m382avdbrvj28q85?action=play)
 
 In Bruges – available on [AppleTV](https://tv.apple.com/us/movie/in-bruges/umc.cmc.3hfzzmfjj39s02vwynx3b91ih?action=play)
 
