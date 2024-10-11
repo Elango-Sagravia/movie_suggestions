@@ -13,16 +13,16 @@ author:
   picture: ''
 status: 'published'
 title: 'Haunting Horror + Psychological Masterpieces'
-publishedAt: '2024-10-25T14:50:02.000Z'
+publishedAt: '2024-10-18T14:50:02.000Z'
 ---
 
 ### [Hereditary (2018)](https://www.imdb.com/title/tt7784604/)
 
-Director: Ari Aster  
+Director: Ari Aster
 
-Starring: Toni Collette, Alex Wolff, Milly Shapiro, Gabriel Byrne  
+Starring: Toni Collette, Alex Wolff, Milly Shapiro, Gabriel Byrne
 
-Genre: Horror/Psychological Thriller  
+Genre: Horror/Psychological Thriller
 
 Ratings: IMDb: 7.3/10; Rotten Tomatoes: 90%
 
@@ -46,7 +46,7 @@ Director Ari Aster originally envisioned Hereditary as a family drama, with horr
 
 [The Babadook (2014)](https://www.imdb.com/title/tt2321549/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520bab) – More than just a horror movie, this is an emotional exploration of grief wrapped in the guise of a supernatural thriller. The real terror comes from the psychological breakdown of a mother trying to cope with loss while protecting her son from a sinister force. This one is for you if you like horror films that leave you emotionally shaken as much as scared.
 
-[Midsommar (2019)](https://www.imdb.com/title/tt8772262/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_mids) – Set against the backdrop of a sunny Swedish festival, the film unnerves you with its bright, open spaces while descending into surreal, disturbing chaos. Its vivid visuals slowly build psychological tension, making the horror feel inescapable. 
+[Midsommar (2019)](https://www.imdb.com/title/tt8772262/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_mids) – Set against the backdrop of a sunny Swedish festival, the film unnerves you with its bright, open spaces while descending into surreal, disturbing chaos. Its vivid visuals slowly build psychological tension, making the horror feel inescapable.
 
 [The Others (2001)](https://www.imdb.com/title/tt0230600/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520othe) is a gothic horror that thrives on atmosphere, with a slow-burn suspense that keeps you guessing until its mind-bending twist. It resembles classic ghost stories, with its dark, isolated mansion adding to the tension and mystery. This is a must-watch if you love psychological horror with a haunting twist that leaves you rethinking the entire story.
 
@@ -58,7 +58,7 @@ Director Ari Aster originally envisioned Hereditary as a family drama, with horr
 
 ---
 
-### Where To Watch 
+### Where To Watch
 
 Hereditary – available on [Prime Video](https://www.primevideo.com/region/na/dp/amzn1.dv.gti.ecbb454c-eee6-2742-f252-8fe5272adf84?autoplay=0&ref_=atv_cf_strg_wb) and [Apple TV](https://tv.apple.com/us/movie/hereditary/umc.cmc.1p8skf72cqba9t91v2rqjbeyv?playableId=tvs.sbd.9001%3A1382447562)
 
