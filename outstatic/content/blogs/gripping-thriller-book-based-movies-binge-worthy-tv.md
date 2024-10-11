@@ -1,7 +1,7 @@
 ---
 footerBannerContent: ''
 footerBannerTitle: ''
-cutOff: '9'
+cutOff: '10'
 relatedArticles: ''
 readTime: '3'
 coverImage: '/images/gone-girl--2014--Q5MT.webp'
@@ -19,11 +19,11 @@ publishedAt: '2024-10-05T13:43:44.000Z'
 
 Director: David Fincher
 
-Starring: Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry  
+Starring: Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
 
-Genre:  Psychological Thriller/Drama  
+Genre:  Psychological Thriller/Drama
 
-Ratings: IMDb: 8.1/10; Rotten Tomatoes: 87%  
+Ratings: IMDb: 8.1/10; Rotten Tomatoes: 87%
 
 ---
 
@@ -31,7 +31,7 @@ Ratings: IMDb: 8.1/10; Rotten Tomatoes: 87%  
 
 Gone Girl is a psychological thriller that will keep you second-guessing everything. The story starts with a woman's disappearance, but what begins as a mystery quickly spirals into a complex web of deception, media frenzy, and mind games. Rosamund Pike’s portrayal of Amy Dunne is chilling, leaving viewers unsettled and captivated. The movie's sharp dialogue and perfectly timed twists create an atmosphere of constant tension. If you’re into gripping thrillers with layers of manipulation and surprises, like *The Girl on the Train*, you can’t miss this.
 
-![](/images/gone-girl--2014--UyMT.webp)
+![Gone Girl (2014)](/images/gone-girl--2014--UyMT.webp)
 
 ---
 
@@ -43,11 +43,11 @@ During filming, Ben Affleck, a devoted Boston Red Sox fan, refused to wear a Yan
 
 ### 3 Movies Based on Books
 
-[The Girl with the Dragon Tattoo (2011)](https://www.imdb.com/title/tt1568346/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_the%2520girl%2520with%2520the%2520drag) – Based on the novel by Stieg Larsson, this gripping thriller follows an investigative journalist and a hacker as they unravel a long-unsolved murder mystery. With dark, atmospheric tension and complex characters, it’s a must-watch for fans of suspenseful dramas. 
+[The Girl with the Dragon Tattoo (2011)](https://www.imdb.com/title/tt1568346/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_the%2520girl%2520with%2520the%2520drag) – Based on the novel by Stieg Larsson, this gripping thriller follows an investigative journalist and a hacker as they unravel a long-unsolved murder mystery. With dark, atmospheric tension and complex characters, it’s a must-watch for fans of suspenseful dramas.
 
-[Atonement (2007)](https://www.imdb.com/title/tt0783233/?ref_=fn_al_tt_1) – This beautifully tragic war drama is an emotional rollercoaster, telling a story of love, guilt, and regret. The Dunkirk beach scene alone is worth watching for its technical brilliance. 
+[Atonement (2007)](https://www.imdb.com/title/tt0783233/?ref_=fn_al_tt_1) – This beautifully tragic war drama is an emotional rollercoaster, telling a story of love, guilt, and regret. The Dunkirk beach scene alone is worth watching for its technical brilliance.
 
-[The Road (2009)](https://www.imdb.com/title/tt0898367/?ref_=fn_al_tt_1) is a post-apocalyptic story about a father and son’s desperate fight for survival. It is bleak, harrowing, and hauntingly beautiful in portraying humanity’s struggle to hold onto hope in a world devoid of it. 
+[The Road (2009)](https://www.imdb.com/title/tt0898367/?ref_=fn_al_tt_1) is a post-apocalyptic story about a father and son’s desperate fight for survival. It is bleak, harrowing, and hauntingly beautiful in portraying humanity’s struggle to hold onto hope in a world devoid of it.
 
 ---
 
@@ -57,7 +57,7 @@ During filming, Ben Affleck, a devoted Boston Red Sox fan, refused to wear a Yan
 
 ---
 
-### Where to Watch  
+### Where to Watch
 
 Gone Girl – available on [Prime Video](https://www.primevideo.com/detail/Gone-Girl/0LY0TG2JJM3NEO34ME4G2O7RUA) and [Apple TV](https://tv.apple.com/us/movie/gone-girl/umc.cmc.60iqscr23rfe93khaawil8edc?playableId=tvs.sbd.9001%3A917874539)
 
