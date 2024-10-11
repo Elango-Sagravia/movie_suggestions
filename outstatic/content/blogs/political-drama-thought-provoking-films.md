@@ -20,11 +20,11 @@ publishedAt: '2024-10-25T15:43:53.000Z'
 
 Director: Mike Nichols
 
-Starring: John Travolta, Emma Thompson, Billy Bob Thornton, Kathy Bates  
+Starring: John Travolta, Emma Thompson, Billy Bob Thornton, Kathy Bates
 
-Genre: Political/Drama  
+Genre: Political/Drama
 
-Ratings: IMDb: 6.7/10; Rotten Tomatoes: 81%  
+Ratings: IMDb: 6.7/10; Rotten Tomatoes: 81%
 
 ---
 
@@ -54,11 +54,11 @@ John Travolta almost turned down the role due to concerns about its political na
 
 ### Soundtrack of the Week
 
-"Sinnerman" by Nina Simone from *The Thomas Crown Affair* (1999) is an electrifying track that brings intensity and soul, perfectly underscoring the movie’s thrilling climax. It is a must-listen for fans of classic vocals with an edge. [Listen on Spotify](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx). 
+"Sinnerman" by Nina Simone from *The Thomas Crown Affair* (1999) is an electrifying track that brings intensity and soul, perfectly underscoring the movie’s thrilling climax. It is a must-listen for fans of classic vocals with an edge. [Listen on Spotify](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx).
 
 ---
 
-### **Where to Watch**  
+### Where to Watch
 
 Primary Colors – available on [AppleTV ](https://tv.apple.com/us/movie/primary-colors/umc.cmc.26aq61omti573iqi0621igx3x)
 
@@ -66,10 +66,10 @@ Wag the Dog – available on [AppleTV](https://tv.apple.com/us/movie/wag-the-dog
 
 The Ides of March – available on [Prime Video](https://www.amazon.com/Ides-March-George-Clooney/dp/B006X4MUYG)
 
-The Social Network – available on [Prime Video](https://www.amazon.com/Social-Network-Jesse-Eisenberg/dp/B004HWR406)  
+The Social Network – available on [Prime Video](https://www.amazon.com/Social-Network-Jesse-Eisenberg/dp/B004HWR406)
 
 Spotlight – available on [Max  ](https://www.max.com/lc/en/movies/spotlight/02d3936c-2e95-471e-95c5-0c55f31ea380)
 
-The Big Short – available on [Prime Video ](https://www.amazon.com/Big-Short-Christian-Bale/dp/B01995O5OS) 
+The Big Short – available on [Prime Video](https://www.amazon.com/Big-Short-Christian-Bale/dp/B01995O5OS)
 
 The Thomas Crown Affair – available on [AppleTV](https://tv.apple.com/us/movie/the-thomas-crown-affair/umc.cmc.58vf8sr6i7anowfy72pvteh28)
