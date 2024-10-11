@@ -11,18 +11,18 @@ slug: 'dreadful-drama-offbeat-movies-binge-worthy-tv'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Dreadful Drama + Offbeat Movies + Binge-Worthy TV'
-publishedAt: '2024-10-11T15:28:23.603Z'
+publishedAt: '2024-10-19T15:28:23.000Z'
 ---
 
 ### [Aftersun (2022)](https://www.imdb.com/title/tt19770238/?ref_=fn_al_tt_1)
 
-Director: Charlotte Wells  
+Director: Charlotte Wells
 
-Starring: Paul Mescal, Frankie Corio  
+Starring: Paul Mescal, Frankie Corio
 
-Genre: Drama  
+Genre: Drama
 
 Ratings: IMDb: 7.8/10; Rotten Tomatoes: 96%
 
@@ -38,7 +38,7 @@ Aftersun is a quietly powerful drama that captures the fleeting, bittersweet mom
 
 ### Behind the Scenes
 
-During filming, director Charlotte Wells encouraged Paul Mescal and Frankie Corio to improvise many scenes, leading to authentic, unscripted moments between them. The father-daughter bond feels real because the two actors spent time together off-set, often playing games and chatting as part of building their relationship. 
+During filming, director Charlotte Wells encouraged Paul Mescal and Frankie Corio to improvise many scenes, leading to authentic, unscripted moments between them. The father-daughter bond feels real because the two actors spent time together off-set, often playing games and chatting as part of building their relationship.
 
 ---
 
@@ -48,7 +48,7 @@ During filming, director Charlotte Wells encouraged Paul Mescal and Frankie Cori
 
 [How to Blow Up a Pipeline (2023)](https://www.imdb.com/title/tt21440780/?ref_=fn_al_tt_1) – An eco-thriller with a rebellious edge, this heist-like story follows a group of environmental activists as they plot to disrupt an oil pipeline. With high stakes and a tight script, it's a unique look at climate activism through a tense, action-driven narrative.
 
-[The Bear (2022)](https://www.imdb.com/title/tt14452776/?ref_=fn_al_tt_1) has quickly gained a cult following for its unflinching look at the chaotic world of restaurant kitchens. The series mixes high-pressure drama with heartfelt moments, showcasing the beauty and messiness of family and passion. The fast-paced dialogue and intense performances, especially from Jeremy Allen White, make this a gripping watch. 
+[The Bear (2022)](https://www.imdb.com/title/tt14452776/?ref_=fn_al_tt_1) has quickly gained a cult following for its unflinching look at the chaotic world of restaurant kitchens. The series mixes high-pressure drama with heartfelt moments, showcasing the beauty and messiness of family and passion. The fast-paced dialogue and intense performances, especially from Jeremy Allen White, make this a gripping watch.
 
 ---
 
@@ -58,7 +58,7 @@ During filming, director Charlotte Wells encouraged Paul Mescal and Frankie Cori
 
 ---
 
-### Where to Watch 
+### Where to Watch
 
 Aftersun – available on [Netflix](https://www.netflix.com/title/81616082) and [AppleTV](https://tv.apple.com/us/movie/aftersun/umc.cmc.5y4yb2dmuaubbfamqzja4pjry)
 
