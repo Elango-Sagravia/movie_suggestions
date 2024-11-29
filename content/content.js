@@ -13,9 +13,9 @@ const content = {
   advertise: {
     hero: {
       title:
-        "We share captivating stories about business moguls and the companies that shaped our world.",
+        "Our newsletter connects with thousands of engaged subscribers every weekend.",
       subTitle:
-        "To reach our engaged audience of 200,000 subscribers, contact us below.",
+        "Partner with us to place your brand alongside content our readers trust and love.",
       buttonText: "Advertise with us",
     },
     statusSection: {
@@ -38,30 +38,21 @@ const content = {
     },
     formSection: {
       left: [
-        {
-          title: "General Inquiries",
+      
+       {
+          title: "Advertise with us",
           type: "email",
           href: "contact@businesshistory.co",
           content: "contact@businesshistory.co",
         },
+        
         {
           title: "Front desk",
           type: "phone",
           href: "+1 (307) 429-0673",
           content: "(307) 429-0673",
         },
-        {
-          title: "Advertise with us",
-          type: "email",
-          href: "contact@businesshistory.co",
-          content: "contact@businesshistory.co",
-        },
-        {
-          title: "Speak to sales",
-          type: "link",
-          href: "contact@businesshistory.co",
-          content: "contact@businesshistory.co",
-        },
+      
       ],
     },
   },
@@ -72,19 +63,39 @@ const content = {
     },
   },
   contactPage: {
+
+    formSection: {
+      left: [
+      
+       {
+          title: "Advertise with us",
+          type: "email",
+          href: "contact@businesshistory.co",
+          content: "contact@businesshistory.co",
+        },
+        
+        {
+          title: "Front desk",
+          type: "phone",
+          href: "+1 (307) 429-0673",
+          content: "(307) 429-0673",
+        },
+      
+      ],
+    },
     faqSection: {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
+          answer: `To subscribe, enter your email address in the subscription box and click "Join Free."`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
+          answer: `You’ll receive three newsletters every weekend—one on Friday, Saturday, and Sunday, each packed with movie recommendations and streaming links.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
+          answer: `Each newsletter features curated movie picks, behind-the-scenes trivia, streaming links, and bonus content like TV show recommendations or soundtracks.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
