@@ -2,13 +2,13 @@ const content = {
   homePage: {
     hero: {
       title:
-        "Intriguing stories that built (or broke) the greatest businesses.",
+        "JUST SIT BACK AND PRESS PLAY.",
       subTitle:
-        "One story every weekday about iconic business magnets, their triumphs, and trials. A brief 3-minute read.",
+        "Three days. Three newsletters. Each one is packed with expertly curated movie recommendations, behind-the-scenes trivia, and links to where you can stream them. All in under 3 minutes.",
     },
   },
   subscribe: {
-    title: "Stay informed, widen your worldview.",
+    title: "Your weekend plans? We've got the movies.",
   },
   advertise: {
     hero: {
