@@ -33,61 +33,118 @@ function detectDevice() {
     return "Desktop";
   }
 }
-function detectPlatform() {
-  let platform = navigator.platform;
 
-  if (platform.includes("Win")) {
-    return "Windows";
-  } else if (platform.includes("Mac")) {
-    return "MacOS";
-  } else if (platform.includes("Linux")) {
-    return "Android";
-  } else if (/iPhone|iPad|iPod/.test(navigator.userAgent)) {
-    return "iOS";
-  } else if (/Android/.test(navigator.userAgent)) {
-    return "Android";
-  } else {
+function detectPlatform() {
+  // Use navigator.userAgentData if available (modern browsers)
+  if (navigator.userAgentData && navigator.userAgentData.platform) {
+    let platform = navigator.userAgentData.platform.toLowerCase();
+
+    if (platform.includes("win")) return "Windows";
+    if (platform.includes("mac")) return "MacOS";
+    if (platform.includes("linux") && !platform.includes("android"))
+      return "Linux";
+    if (platform.includes("android")) return "Android";
+    if (
+      platform.includes("iphone") ||
+      platform.includes("ipad") ||
+      platform.includes("ipod")
+    )
+      return "iOS";
+
     return "Other Platform";
   }
+
+  // Fallback to navigator.userAgent for older browsers
+  let userAgent = navigator.userAgent.toLowerCase();
+
+  if (/windows/.test(userAgent)) return "Windows";
+  if (/macintosh|mac os x/.test(userAgent)) return "MacOS";
+  if (/android/.test(userAgent)) return "Android";
+  if (/iphone|ipad|ipod/.test(userAgent)) return "iOS";
+  if (/linux/.test(userAgent) && !/android/.test(userAgent)) return "Linux";
+
+  return "Other Platform";
 }
+
 function SubscriberForm({ formClasses }) {
-  const { setEmail, setMessage } = useAppContext();
+  const { setEmail, setMessage, setTempEmail } = useAppContext();
   const [inputEmail, setInputEmail] = useState("");
   const [loading, setLoading] = useState(false);
+  const [loadingText, setLoadingText] = useState("");
+
   async function handleSubmit(e) {
     e.preventDefault();
+    const formattedEmail = inputEmail.toLowerCase().trim();
 
     try {
       setLoading(true);
-      // const response = await fetch(
-      //   `/api/add-user?email=${inputEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}`,
-      //   {
-      //     method: "GET",
-      //   }
-      // );
-      fetch(`https://hooks.zapier.com/hooks/catch/11976044/2u8hsu9/`, {
-        mode: "no-cors",
+      setLoadingText("Validating...");
+      const responseZeroBounce = await fetch(`/api/zero-bounce`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email: formattedEmail }),
+      });
+
+      const responseZB = await responseZeroBounce.json();
+
+      const response = await fetch(`/api/add-user`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          email: inputEmail.toLowerCase().trim(),
-          domain: window.location.hostname,
+          email: formattedEmail,
+          browser: detectBrowser(),
+          device: detectDevice(),
+          platform: detectPlatform(),
+          referrer: document.referrer,
+          zbStatus: responseZB.status,
+          zbSubStatus: responseZB.sub_status,
+          city: responseZB.city,
+          country: responseZB.countryFromApi,
+          domain: responseZB.domain,
+          firstname: responseZB.firstname,
+          lastname: responseZB.lastname,
+          gender: responseZB.gender,
+          zipcode: responseZB.zipcode,
+          region: responseZB.region,
+          smtp_provider: responseZB.smtp_provider,
         }),
       });
 
-      // const data = await response.json();
+      const addUserResponse = await response.json();
 
-      if (true) {
-        setEmail(inputEmail);
+      if (responseZB.status === "valid" && addUserResponse.success) {
+        await fetch(`/api/emails/welcome`, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email: formattedEmail,
+            uniqueId: addUserResponse.uniqueId,
+          }),
+        });
+      }
 
-        setMessage("Successfully subscribed!");
+      if (
+        response.ok &&
+        (responseZB.status === "valid" || responseZB.status === "catch-all")
+      ) {
+        setEmail(formattedEmail);
+        setMessage("successfully subscribed");
+        window.lintrk("track", { conversion_id: 19078116 });
+      } else if (responseZB.status !== "valid") {
+        setMessage("invalid email");
+        setTempEmail(formattedEmail);
       } else {
-        setMessage(data.error.message || "Something went wrong.");
+        setMessage(addUserResponse.error?.message || "Something went wrong.");
       }
     } catch (error) {
       setMessage("Something went wrong. Please try again later.");
+      console.error(error);
     } finally {
       setLoading(false);
     }
@@ -105,8 +162,16 @@ function SubscriberForm({ formClasses }) {
           onChange={(e) => setInputEmail(e.target.value)}
           required={true}
         />
-        <Button className="rounded-none">
-          {loading ? <LoadingSpinner /> : "Subscribe"}
+        <Button className="rounded-none bg-[#F9D342] text-black hover:bg-[#e6c131]">
+          {loading ? (
+            loadingText.length > 0 ? (
+              loadingText
+            ) : (
+              <LoadingSpinner />
+            )
+          ) : (
+            "Join the waitlist"
+          )}
         </Button>
       </div>
       <p className="text-[12px]">100% free. No spam. Unsubscribe anytime.</p>

@@ -1,10 +1,9 @@
 const content = {
   homePage: {
     hero: {
-      title:
-        "JUST SIT BACK AND PRESS PLAY.",
-      subTitle:
-        "Three days. Three newsletters. Each one is packed with expertly curated movie recommendations, behind-the-scenes trivia, and links to where you can stream them. All in under 3 minutes.",
+      title: "No more endless scrolling. Just sit back and press play!",
+      subTitle: "Be the first to know when we launch. Sign up now!",
+      preSubTitle: "Movies Suggestions – Coming Soon!",
     },
   },
   subscribe: {
@@ -38,21 +37,19 @@ const content = {
     },
     formSection: {
       left: [
-      
-       {
+        {
           title: "Advertise with us",
           type: "email",
           href: "contact@businesshistory.co",
           content: "contact@businesshistory.co",
         },
-        
+
         {
           title: "Front desk",
           type: "phone",
           href: "+1 (307) 429-0673",
           content: "(307) 429-0673",
         },
-      
       ],
     },
   },
@@ -63,24 +60,21 @@ const content = {
     },
   },
   contactPage: {
-
     formSection: {
       left: [
-      
-       {
+        {
           title: "Advertise with us",
           type: "email",
           href: "contact@businesshistory.co",
           content: "contact@businesshistory.co",
         },
-        
+
         {
           title: "Front desk",
           type: "phone",
           href: "+1 (307) 429-0673",
           content: "(307) 429-0673",
         },
-      
       ],
     },
     faqSection: {

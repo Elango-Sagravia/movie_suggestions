@@ -1,7 +1,7 @@
 import { query } from "@/lib/db";
 
 export async function GET(request) {
-  const website_id = 4;
+  const website_id = 6;
   const { searchParams } = new URL(request.url);
   const date = searchParams.get("date") || "2024-10-08"; // Replace with default or provided date
 

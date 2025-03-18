@@ -7,11 +7,11 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export default function Home() {
   return (
-    <main>
+    <main className="h-[77%] bg-black">
       <Hero />
-      <Latest />
+      {/* <Latest />
       <ArchiveHome />
-      <Subscribe />
+      <Subscribe /> */}
     </main>
   );
 }
