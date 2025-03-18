@@ -29,13 +29,13 @@ export default function Hero() {
               <p className="text-nl_background font-bold mt-10 text-2xl">
                 One last step!
               </p>
-              <p className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
+              <p className="text-white mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
                 <p>
                   Please check your <strong>{email}</strong> email and confirm
                   your free subscription (or we won’t be able to get to you).
                 </p>
 
-                <p className="mt-2">
+                <p className="text-white mt-2">
                   If you don’t see the email, check your{" "}
                   <strong>
                     promotions, spam, or other folders in your inbox
@@ -45,7 +45,7 @@ export default function Hero() {
               </p>
               <button
                 onClick={() => setEmail("")}
-                className="mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
+                className="text-white mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
               >
                 Subscribe with different email
               </button>
@@ -56,17 +56,17 @@ export default function Hero() {
           )}
           {message === "invalid email" && (
             <>
-              <p className="text-nl_background font-bold mt-10 text-2xl">
+              <p className="text-white text-nl_background font-bold mt-10 text-2xl">
                 ❌ Invalid Email
               </p>
-              <p className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
+              <p className="text-white mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
                 We were unable to validate your email,{" "}
                 <strong>{tempEmail}</strong>. This may be due to a typo in the
                 email address or inactivity over an extended period.
               </p>
               <button
                 onClick={() => setEmail("")}
-                className="mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
+                className="text-white mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
               >
                 Subscribe with different email
               </button>

@@ -140,11 +140,11 @@ export const emailContent = `<!doctype html>
             <td  style="width:150px;">
               
         <a
-           href="https://www.presidentialsummary.com" target="_blank"
+           href="https://www.moviesuggestions.com" target="_blank"
         >
           
       <img
-         alt="" height="auto" src="https://www.presidentialsummary.com/logo.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
+         alt="" height="auto" src="https://www.moviesuggestions.com/logo.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
       />
     
         </a>
@@ -181,7 +181,7 @@ export const emailContent = `<!doctype html>
                                           <img
                                             alt=""
                                             height="auto"
-                                            src="https://www.presidentialsummary.com/api/emails/emails_list_open?user_uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%"
+                                            src="https://www.moviesuggestions.com/api/emails/emails_list_open?user_uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%"
                                             style="
                                               border: 0;
                                               display: block;
@@ -415,7 +415,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;"  
-              href="https://www.presidentialsummary.com/verified?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" 
+              href="https://www.moviesuggestions.com/verified?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" 
               target="_blank"
              >Verify</a></div>
     
@@ -674,7 +674,7 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <strong><a href="https://www.presidentialsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>. </p></div>
+      ><p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <strong><a href="https://www.moviesuggestions.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>. </p></div>
     
                 </td>
               </tr>
@@ -830,7 +830,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.presidentialsummary.com/archives/%slug%?email=test@test.com" 
+              href="https://www.moviesuggestions.com/archives/%slug%?email=test@test.com" 
               target="_blank"
              >Check out our latest issue</a></div>
     
@@ -1004,7 +1004,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.facebook.com/profile.php?id=61562652791256" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1037,7 +1037,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://x.com/presidentialsum" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1070,7 +1070,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.instagram.com/presidentialsummary/" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1103,7 +1103,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.reddit.com/user/PresidentialSummary/" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1134,7 +1134,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.linkedin.com/showcase/presidentialsummary/" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1165,7 +1165,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.threads.net/@presidentialsummary" target="_blank">
                     <img
-                       height="30" src="https://www.presidentialsummary.com/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.moviesuggestions.com/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1250,10 +1250,10 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+      ><p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.moviesuggestions.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="font-size: 12px; color: #000; line-height: 2">
-            <a href="https://www.presidentialsummary.com/unsubscribe?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.moviesuggestions.com/unsubscribe?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
           margin-top:25px;
