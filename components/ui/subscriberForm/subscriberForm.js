@@ -135,7 +135,6 @@ function SubscriberForm({ formClasses }) {
       ) {
         setEmail(formattedEmail);
         setMessage("successfully subscribed");
-        window.lintrk("track", { conversion_id: 19078116 });
       } else if (responseZB.status !== "valid") {
         setMessage("invalid email");
         setTempEmail(formattedEmail);
