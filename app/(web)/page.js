@@ -7,7 +7,7 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export default function Home() {
   return (
-    <main className="h-[77%] bg-black">
+    <main className="min-h-screen bg-black">
       <Hero />
       {/* <Latest />
       <ArchiveHome />

@@ -11,8 +11,8 @@ import AppProvider from "@/context/appContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Business history",
-  description: "Behind the scenes of legendary businesses.",
+  title: "Movie Suggestions",
+  description: "Stop scrolling",
 };
 
 export default function RootLayout({ children }) {
