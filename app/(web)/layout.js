@@ -11,8 +11,9 @@ import AppProvider from "@/context/appContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Movie Suggestions",
-  description: "Stop scrolling",
+  title: "MMovie Suggestions – Find the Perfect Film for Any Mood",
+  description:
+    "Discover the best movie recommendations tailored to your mood and preferences. Get personalized suggestions across genres and streaming platforms at MovieSuggestions",
 };
 
 export default function RootLayout({ children }) {
