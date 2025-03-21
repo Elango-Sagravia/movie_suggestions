@@ -9,12 +9,37 @@ import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
 
 const inter = Inter({ subsets: ["latin"] });
+const thumbnail = "/og.png";
+const baseUrl = process.env.url;
+export async function generateMetadata() {
+  const title = "Movie Suggestions – Find the Perfect Film for Any Mood";
 
-export const metadata = {
-  title: "MMovie Suggestions – Find the Perfect Film for Any Mood",
-  description:
-    "Discover the best movie recommendations tailored to your mood and preferences. Get personalized suggestions across genres and streaming platforms at MovieSuggestions",
-};
+  const description =
+    "Discover the best movie recommendations tailored to your mood and preferences. Get personalized suggestions across genres and streaming platforms at MovieSuggestions";
+
+  return {
+    metadataBase: new URL(process.env.url),
+    title,
+    description,
+    alternates: {
+      canonical: "https://www.moviesuggestions.com",
+    },
+    themeColor: "#f9d543",
+    openGraph: {
+      title,
+      description,
+      url: baseUrl,
+      images: [
+        {
+          url: thumbnail,
+          secureUrl: thumbnail,
+          alt: "Movie Suggestions",
+        },
+      ],
+      type: "website",
+    },
+  };
+}
 
 export default function RootLayout({ children }) {
   return (
