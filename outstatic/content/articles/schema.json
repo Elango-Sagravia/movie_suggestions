@@ -1,0 +1,13 @@
+{
+  "title": "articles",
+  "type": "object",
+  "properties": {
+    "readTime": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Read Time"
+    }
+  }
+}
