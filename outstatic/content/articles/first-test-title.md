@@ -7,7 +7,7 @@ author:
 slug: 'first-test-title'
 description: 'description'
 coverImage: '/images/thumbnail-1-UwMz.png'
-readTime: ''
+readTime: '8'
 metaTitle: 'meta title'
 metaDescription: 'meta description'
 coverImageAltText: 'cover image alt text'
