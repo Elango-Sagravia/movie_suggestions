@@ -9,7 +9,7 @@ cutOff: ''
 latest: 'true'
 relatedArticles: ''
 readTime: ''
-coverImage: '/images/-banner-U5ND.png'
+coverImage: '/images/molly-s-game-1-QzNT.png'
 description: ''
 slug: 'weekend-kickoff-she-played-the-game-they-played-it-cool'
 author:
