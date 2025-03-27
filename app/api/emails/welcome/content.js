@@ -362,15 +362,12 @@ export const emailContent = `<!doctype html>
           <tr>
             <td  style="width:600px;">
               
-        <a
-           href="https://www.businesshistory.co" target="_blank"
-        >
+        
           
       <img
          alt="gif not there" height="auto" src="https://www.moviesuggestions.com/verify-new.gif" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600"
       />
     
-        </a>
       
             </td>
           </tr>
