@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black">
       <Hero />
-      {/* <Latest />
+      <Latest />
       <ArchiveHome />
-      <Subscribe /> */}
+      <Subscribe />
     </main>
   );
 }

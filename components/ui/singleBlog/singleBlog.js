@@ -10,15 +10,118 @@ import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
 import RelatedArticles from "../relatedArticles/relatedArticles";
 import garamond from "@/components/garamond";
+import { useSearchParams } from "next/navigation";
+import { useEffect } from "react";
 
 const SingleBlog = ({ blog, relatedArticles, index }) => {
-  console.log(relatedArticles);
-  const { isSubscribed } = useAppContext();
-  console.log("object :>> ", blog);
+  const { isSubscribed, setEmail, message, tempEmail } = useAppContext();
+
+  const searchParams = useSearchParams();
+  const rawEmail = searchParams.get("email");
+  const email = rawEmail
+    ? decodeURIComponent(rawEmail.toLowerCase().trim())
+    : null;
+  useEffect(() => {
+    if (email) {
+      console.log("Filtered email:", email);
+      setEmail(email);
+      // You can now use the email in your component or for logic
+    }
+  }, []);
+
+  if (message === "" && blog.emailHtml) {
+    return (
+      <div className="bg-nl_sec_background pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto ">
+          <h1
+            className={`text-2xl py-5 px-5 text-center text-black`}
+            style={{ fontFamily: "Roboto" }}
+          >
+            {blog.title}
+          </h1>
+        </div>
+        <div className="bg-nl_sec_background">
+          <div
+            className="archive"
+            dangerouslySetInnerHTML={{
+              __html: blog.emailHtml.replaceAll("<a", `<a target="_blank"`),
+            }}
+          />
+          <div className="max-w-[600px] mx-auto bg-white py-16">
+            <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" />
+          </div>
+        </div>
+      </div>
+    );
+  } else if (message === "successfully subscribed" && blog.emailHtml) {
+    return (
+      <div className="bg-nl_sec_background pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto">
+          <h1
+            className={`text-2xl py-5 px-5 text-center text-black`}
+            style={{ fontFamily: "Roboto" }}
+          >
+            {blog.title}
+          </h1>
+        </div>
+        <div className="bg-nl_sec_background">
+          <div
+            className="archive"
+            dangerouslySetInnerHTML={{
+              __html: blog.emailHtml.replaceAll("<a", `<a target="_blank"`),
+            }}
+          />
+        </div>
+      </div>
+    );
+  } else if (message === "invalid email" && blog.emailHtml) {
+    return (
+      <div className="bg-nl_sec_background pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto ">
+          <h1
+            className={`text-2xl py-5 px-5 text-center text-white`}
+            style={{ fontFamily: "Roboto" }}
+          >
+            {blog.title}
+          </h1>
+        </div>
+        <div className="bg-nl_sec_background">
+          <div
+            className="archive"
+            dangerouslySetInnerHTML={{
+              __html: blog.emailHtmlPreview.replaceAll(
+                "<a",
+                `<a target="_blank"`
+              ),
+            }}
+          />
+          <div className="max-w-[600px] mx-auto bg-white py-16 text-center">
+            {/* <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" /> */}
+            <>
+              <p className="text-nl_background font-bold mt-10 text-2xl">
+                ❌ Invalid Email
+              </p>
+              <p className="mx-auto w-2/3 mt-4">
+                We were unable to validate your email,{" "}
+                <strong>{tempEmail}</strong>. This may be due to a typo in the
+                email address or inactivity over an extended period.
+              </p>
+              <button
+                onClick={() => setEmail("")}
+                className="mt-4 text-sm w-fulls text-black/70 underline text-left"
+              >
+                Subscribe with a different Email
+              </button>
+            </>
+          </div>
+        </div>
+      </div>
+    );
+  }
   return (
     <>
       <section
-        className={`w-full md:w-4/5 lg:w-2/3 px-4 md:px-0 mx-auto pt-16 pb-16 md:pt-32 max-w-7xl ${
+        className={`w-full md:w-4/5 lg:w-2/3 px-4 md:px-0 mx-auto pb-16 md:pt-32 max-w-7xl ${
           isSubscribed && "md:pb-32"
         }`}
       >
@@ -29,15 +132,15 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           <HTMLContent
             contentString={blog.content}
             blogCutOff={
-              index <= 4
+              index <= -1
                 ? blog.content.length
                 : !isSubscribed
                 ? blog.cutOff
                 : blog.content.length
             }
-            enableCutOff={index <= 4 ? false : true}
+            enableCutOff={index <= -1 ? false : true}
           />
-          {index <= 4
+          {index <= -1
             ? blog?.footerBannerContent?.length > 0 && (
                 <div className="p-4 md:p-10 bg-nl_background text-white mt-6">
                   <p className="text-center text-[12px]">
@@ -60,10 +163,13 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
                 </div>
               )}
         </div>
-        {isSubscribed ||
-          (index <= 4 && relatedArticles.length > 0 && (
+        {/* {isSubscribed ||
+          (index <= -1 && relatedArticles.length > 0 && (
             <RelatedArticles articles={relatedArticles} />
-          ))}
+          ))} */}
+        {isSubscribed && relatedArticles.length > 0 && (
+          <RelatedArticles articles={relatedArticles} />
+        )}
       </section>
       {!isSubscribed && (
         <section className="bg-gradient-to-t	from-nl_sec_background to-white px-8 pt-4 pb-16 md:py-16 md:px-16 md:pb-32">
