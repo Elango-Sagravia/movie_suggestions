@@ -48,7 +48,7 @@ Golden Globe nomination for Best Performance by an Actress in a Motion Picture D
 
 The Writers Guild of Great Britain awarded Jonathan Perera for Best Screenplay in 2018.
 
-**Where to watch:** [Amazon Prime](https://www.justwatch.com/us/movie/miss-sloane)
+[**Where to watch**](https://www.justwatch.com/us/movie/miss-sloane)
 
 **Summary:** “ Anticipating your opponent’s moves and devising counter-measures. I was hired to win,” says Elizabeth Sloane, the titular character of this movie, played by the brilliant Jessica Chastain. A political drama directed by John Madden perfectly screens the world of politics and political power brokers. Elizabeth Sloane, who has a moral compass, is led into a gun lobby case where the head of the gun lobby calls her to help convince women to oppose a bill that will impose new regulations on the sale of firearms. However, as a person who sees every threat as an opportunity, she latches on and follows through with the case and the dark world behind it.
 
@@ -72,7 +72,7 @@ Nominated for Best Film and Best Screenplay at the Venice Film Festival.
 
 Awarded Best Actor to Oscar Isaac from the Indiana Film Journalists Association.
 
-**Where to watch:** [Amazon Prime](https://www.justwatch.com/us/movie/the-card-counter)
+[**Where to watch**](https://www.justwatch.com/us/movie/the-card-counter)
 
 **Summary:** The Card Counter plays on Paul Schrader's long inquiry into man's moral responsibility and is themed on guilt, redemption, and retribution. It is artfully pleasing and perfectly sounds the voices of human emotions in the dramas of poker games and calculated decisions. A movie reaching its peak with a stellar cast, including Tiffany Haddish and Willem Dafoe,
 
@@ -98,7 +98,7 @@ Won the Southeastern Film Critics Association Award for Best Actor.
 
 Nominated John Dahl for the Golden Lion in 1998 at the Venice Film Festival.
 
-**Where to watch:** [Amazon Prime](https://www.justwatch.com/us/movie/dernier-tour-de-table)
+[**Where to watch**](https://www.justwatch.com/us/movie/dernier-tour-de-table)
 
 **Summary:** Both ‘Rounders’ and ‘Molly’s Game’ incredibly explore the underground of the poker circuit. Viewers who loved watching Molly’s Game will find this movie captivating as it captures the intensity of poker games and the casino underbelly. Every scene is an effort to capture the intensity and the thrilling tension of each card dealt, channeling an adrenaline rush and high stakes, which is seen in Molly Bloom's world.
 
@@ -122,7 +122,7 @@ From the book to the motion picture, Molly's Game captured an audience who loved
 
 **Awards:** Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture.
 
-**Where to watch:** [Netflix](https://www.justwatch.com/us/movie/the-trial-of-the-chicago-7)
+[**Where to watch**](https://www.justwatch.com/us/movie/the-trial-of-the-chicago-7)
 
 **Summary:** This courtroom drama is adapted from the charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois. The movie is a thrilling experience of an infamous trial for seven activists in US history. The activists were on trial for their protests in response to the 1968 Democratic National Convention held in Chicago on August 26‒29, 1969.
 
@@ -146,7 +146,7 @@ It is themed on what was intended to be a peaceful protest that turned into a vi
 
 **Awards:** Satellite Award for Best Motion Picture Made for Television in 2018
 
-**Where to watch:** [Max](https://www.justwatch.com/us/movie/the-wizard-of-lies)
+[**Where to watch**](https://www.justwatch.com/us/movie/the-wizard-of-lies)
 
 **Summary:** The Wizard of Lies portrays one of the largest financial frauds in U.S. history. The cinematic lens captures Bernie Madoff’s infamous Ponzi scheme and unravels the deception and the emotional toll on his family following his arrest.
 
