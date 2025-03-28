@@ -75,11 +75,11 @@ export async function generateStaticParams() {
   return posts.map((slug) => ({ slug }));
 }
 const customStyles = {
-  h2: "text-3xl font-bold mt-8 mb-4",
-  h3: "text-2xl font-bold mt-8 mb-4",
-  p: "mb-4 text-white",
+  h2: "text-3xl font-bold mt-8 mb-4 text-nl_background",
+  h3: "text-2xl font-bold mt-8 mb-4 text-nl_background",
+  p: "mb-4 text-gray-300",
   img: "max-w-full h-auto",
-  a: "text-blue-500 hover:text-blue-700 break-words",
+  a: "text-nl_background hover:underline break-words",
   ol: "list-decimal list-inside mb-4",
   ul: "list-disc list-inside mb-4",
   li: "ml-4 mb-4",
@@ -95,14 +95,23 @@ export default async function Home({ params }) {
     .replace(/<a /g, `<a target="_blank" class="${customStyles.a}" `)
     .replace(/<ol>/g, `<ol class="${customStyles.ol}">`)
     .replace(/<li>/g, `<li class="${customStyles.li}">`)
-    .replace(/<p class="mb-4"><em>source-/g, `<p class="mb-4 source-link"><em>`)
-    .replace(/<p class="mb-4">source-/g, `<p class="mb-4 source-link">`)
-    .replace(/<p class="mb-4"><img/g, `<p class="mb-2" style=""><img`);
+    .replace(
+      /<p class="mb-4 text-gray-300"><em>source-/g,
+      `<p class="mb-4 text-gray-300 source-link"><em>`
+    )
+    .replace(
+      /<p class="mb-4 text-gray-300">source-/g,
+      `<p class="mb-4 text-gray-300 source-link">`
+    )
+    .replace(
+      /<p class="mb-4 text-gray-300"><img/g,
+      `<p class="mb-2" style=""><img`
+    );
   return (
     <>
       <section className="bg-nl_sec_background">
         <div
-          className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-40 pb-16 md:pt-44 max-w-7xl min-h-screen `}
+          className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-20 pb-16 md:pt-44 max-w-7xl min-h-screen `}
         >
           <BlogInfo date={blog.publishedAt} read_time={blog.readTime} />
           <BlogTitle title={blog.title} />
