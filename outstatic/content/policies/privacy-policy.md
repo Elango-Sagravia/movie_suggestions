@@ -7,7 +7,7 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
-publishedAt: '2024-11-29T17:16:04.336Z'
+publishedAt: '2025-03-26T17:16:04.000Z'
 ---
 
 Movie Suggestions ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our Website and subscribe to our newsletter. Please read this Privacy Policy carefully. By accessing or using the Website, you agree to the collection and use of information in accordance with this policy.
@@ -64,11 +64,11 @@ We use the information we collect to:
 
 We do not sell or rent your personal information to third parties. We may share your information with:
 
-- Service Providers: Third-party vendors who help us operate our Website and provide our newsletter services, subject to confidentiality agreements.
+- **Service Providers:** Third-party vendors who help us operate our Website and provide our newsletter services, subject to confidentiality agreements.
 
-- Legal Requirements: If required by law or in response to valid requests by public authorities (e.g., a court or government agency).
+- **Legal Requirements:** If required by law or in response to valid requests by public authorities (e.g., a court or government agency).
 
-- Business Transfers: In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction.
+- **Business Transfers:** In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction.
 
 **4. Data Security**
 
@@ -90,26 +90,25 @@ Our Services are not designed for children under 13, and we do not intentionally
 
 We may send periodic promotional emails to you. You have the right to prevent us from contacting you for marketing purposes at any time. When we send a promotional communication, you can opt out of further communications by following the unsubscribe instructions provided in each email. It may take up to 10 business days for us to process unsubscribe requests.
 
-- Right to Know: You have the right to request information about our Personal Information collection practices over the past 12 months, including the categories of information collected, the sources, our business purposes for collecting or sharing it, and the categories of third parties with whom we shared it. You may also request a copy of the specific pieces of Personal Information we collected about you in the last 12 months.
+- **Right to Know:** You have the right to request information about our Personal Information collection practices over the past 12 months, including the categories of information collected, the sources, our business purposes for collecting or sharing it, and the categories of third parties with whom we shared it. You may also request a copy of the specific pieces of Personal Information we collected about you in the last 12 months.
 
-- Right to Delete: You may request that we delete your Personal Information, subject to certain exceptions.
+- **Right to Delete:** You may request that we delete your Personal Information, subject to certain exceptions.
 
-- Right to Opt Out: You have the right to opt out of any "sales" of your Personal Information if applicable. For clarity, we do not sell your Personal Information.
+- **Right to Opt Out:** You have the right to opt out of any "sales" of your Personal Information if applicable. For clarity, we do not sell your Personal Information.
 
-- Non-Discrimination: You have the right to not be discriminated against for exercising these rights.
+- **Non-Discrimination:** You have the right to not be discriminated against for exercising these rights.
 
-- Access to Your Personal Information: You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you. 
+- **Access to Your Personal Information:** You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you.
 
-- Changes to Your Personal Information: We rely on you to update and correct your Personal Information. 
+- **Changes to Your Personal Information:** We rely on you to update and correct your Personal Information.
 
-- Deletion of Your Personal Information: Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests. 
+- **Deletion of Your Personal Information:** Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests.
 
+- **Objection to Certain Processing:** You may object to our use or disclosure of your Personal Information by contacting us.
 
-- Objection to Certain Processing: You may object to our use or disclosure of your Personal Information by contacting us.
+- **Promotional Emails:** You may choose to provide us with your email address for sending free newsletters, surveys, offers, and other promotional materials. You can stop receiving promotional emails by following the unsubscribe instructions in those emails. Even if you opt-out of promotional emails, we may still send you service-related communications.
 
-- Promotional Emails: You may choose to provide us with your email address for sending free newsletters, surveys, offers, and other promotional materials. You can stop receiving promotional emails by following the unsubscribe instructions in those emails. Even if you opt-out of promotional emails, we may still send you service-related communications.
-
-- Revocation of Consent: If you revoke your consent for processing Personal Information, we may no longer be able to provide you with services. In some cases, we may limit or deny your request to revoke consent if permitted or required by law, or if we are unable to adequately verify your identity. You may revoke consent to processing by contacting us.
+- **Revocation of Consent:** If you revoke your consent for processing Personal Information, we may no longer be able to provide you with services. In some cases, we may limit or deny your request to revoke consent if permitted or required by law, or if we are unable to adequately verify your identity. You may revoke consent to processing by contacting us.
 
 **9. CAN-SPAM Act Compliance**\
 We comply with the CAN-SPAM Act of 2003. This means:
@@ -170,6 +169,6 @@ To exercise your rights under the CPRA, please contact us at [contact@moviesugge
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-**13. Contact Information** 
+**13. Contact Information**
 
-If you have any questions about this Policy, please contact us at [contact@moviesuggestions.com](mailto:contact@moviesuggestions.com).    
+If you have any questions about this Policy, please contact us at [contact@moviesuggestions.com](mailto:contact@moviesuggestions.com).
