@@ -12,7 +12,7 @@ export default function Footer() {
               </div>
             </Link>
             <div className="flex flex-col">
-              {/* <ul className="flex mt-8">
+              <ul className="flex mt-8">
                 <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
                   <Link href="/policy/privacy-policy">Privacy policy</Link>
                 </li>
@@ -25,22 +25,22 @@ export default function Footer() {
                 <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400 ml-4">
                   <Link href="/policy/refund-policy">Refund policy</Link>
                 </li>
-              </ul> */}
+              </ul>
               <p className="mt-8 text-[12px] text-gray-400">
                 This newsletter and website are operated by Sagravia LLC, 30 N
                 Gould St, Sheridan, WY 82801.
               </p>
               <p className="mt-8 text-[12px] text-gray-400">
-                © 2024 Sagravia LLC. All rights reserved.
+                © 2025 Sagravia LLC. All rights reserved.
               </p>
             </div>
           </div>
-          {/* <div>
+          <div>
             <ul className="ml-60">
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link
                   target="_blank"
-                  href="https://www.facebook.com/people/Presidential-Summary/61562652791256/"
+                  href="https://www.facebook.com/profile.php?id=61574440239538"
                 >
                   Facebook
                 </Link>
@@ -48,7 +48,7 @@ export default function Footer() {
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link
                   target="_blank"
-                  href="https://www.instagram.com/presidentialsummary/"
+                  href="https://www.instagram.com/moviesuggestions"
                 >
                   Instagram
                 </Link>
@@ -56,7 +56,7 @@ export default function Footer() {
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link
                   target="_blank"
-                  href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum"
+                  href="https://x.com/MovieSuggest"
                 >
                   Twitter
                 </Link>
@@ -64,7 +64,7 @@ export default function Footer() {
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link
                   target="_blank"
-                  href="https://www.threads.net/@presidentialsummary"
+                  href="https://www.threads.net/@moviesuggestions"
                 >
                   Threads
                 </Link>
@@ -72,14 +72,14 @@ export default function Footer() {
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link
                   target="_blank"
-                  href="https://www.linkedin.com/showcase/presidentialsummary/"
+                  href="https://www.linkedin.com/showcase/movie-suggestions/"
                 >
                   LinkedIn
                 </Link>
               </li>
             </ul>
-          </div> */}
-          {/* <div>
+          </div>
+          <div>
             <ul>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -91,7 +91,7 @@ export default function Footer() {
                 <Link href="/contact">Contact us</Link>
               </li>
             </ul>
-          </div> */}
+          </div>
         </div>
       </footer>
 
@@ -108,12 +108,12 @@ export default function Footer() {
           </div>
 
           <div className="flex">
-            {/* <div className="mt-8">
+            <div className="mt-8">
               <ul>
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link
                     target="_blank"
-                    href="https://www.facebook.com/people/Presidential-Summary/61562652791256/"
+                    href="https://www.facebook.com/profile.php?id=61574440239538"
                   >
                     Facebook
                   </Link>
@@ -121,7 +121,7 @@ export default function Footer() {
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link
                     target="_blank"
-                    href="https://www.instagram.com/presidentialsummary/"
+                    href="https://www.instagram.com/moviesuggestions"
                   >
                     Instagram
                   </Link>
@@ -129,7 +129,7 @@ export default function Footer() {
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link
                     target="_blank"
-                    href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum"
+                    href="https://x.com/MovieSuggest"
                   >
                     Twitter
                   </Link>
@@ -137,7 +137,7 @@ export default function Footer() {
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link
                     target="_blank"
-                    href="https://www.threads.net/@presidentialsummary"
+                    href="https://www.threads.net/@moviesuggestions"
                   >
                     Threads
                   </Link>
@@ -145,7 +145,7 @@ export default function Footer() {
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link
                     target="_blank"
-                    href="https://www.linkedin.com/showcase/presidentialsummary/"
+                    href="https://www.linkedin.com/showcase/movie-suggestions/"
                   >
                     LinkedIn
                   </Link>
@@ -164,10 +164,10 @@ export default function Footer() {
                   <Link href="/contact">Contact us</Link>
                 </li>
               </ul>
-            </div> */}
+            </div>
           </div>
 
-          {/* <div>
+          <div>
             <ul className="flex mt-8">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
                 <Link href="/policy/privacy-policy">Privacy policy</Link>
@@ -182,13 +182,13 @@ export default function Footer() {
                 <Link href="/policy/refund-policy">Refund policy</Link>
               </li>
             </ul>
-          </div> */}
+          </div>
           <p className="mt-8 text-[12px] text-gray-400">
             This newsletter and website are operated by Sagravia LLC, 30 N Gould
             St, Sheridan, WY 82801
           </p>
           <p className="mt-8 text-[12px] text-gray-400">
-            © 2024 Sagravia LLC. All rights reserved.
+            © 2025 Sagravia LLC. All rights reserved.
           </p>
         </div>
       </footer>
