@@ -14,7 +14,7 @@ export const metadata = {
 
 export default function Advertise() {
   return (
-    <main>
+    <main className="mt-10">
       <AdvertiseHero />
       {/* <AdvertiseStatus /> */}
       <AdvertiseForm />

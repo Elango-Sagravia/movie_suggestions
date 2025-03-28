@@ -15,7 +15,7 @@ export const metadata = {
 
 export default function Contact() {
   return (
-    <main>
+    <main className="mt-10">
       {/* <header className="px-4 lg:px-16 py-20 max-w-7xl mx-auto">
         <h1 className={`text-4xl text-nl_background ${libre.className}`}>
           Contact us
