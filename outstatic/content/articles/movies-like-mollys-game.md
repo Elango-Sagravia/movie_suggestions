@@ -5,7 +5,7 @@ author:
   name: ''
   picture: ''
 slug: 'movies-like-mollys-game'
-description: 'A well-curated crime-thriller movie list to add to your watch list. Explore a cinematic world of biographical crime thriller and courtroom drama from the movie list. '
+description: 'If you loved Molly’s Game for its high-stakes drama, sharp dialogue, and powerful performances, this list is for you. From political thrillers to courtroom clashes and poker-fueled tension, here are five gripping films that deliver the same adrenaline rush and moral complexity that made Molly’s Game unforgettable.'
 coverImage: '/images/movies-like-mollys-game-collage-A5MT.png'
 readTime: '11'
 metaTitle: '5 Thrilling Movies Like Molly’s Game You Need to Watch'
