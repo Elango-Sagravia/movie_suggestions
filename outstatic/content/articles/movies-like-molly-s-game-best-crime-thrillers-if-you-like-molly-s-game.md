@@ -32,15 +32,13 @@ With fast-paced intercuts and a scintillating background score, the film keeps o
 
 Just in case you loved Molly’s Game, here are some movies similar to Molly’s Game, ranked by fans.
 
-### **1. Miss Sloane:** 
+### **#1  Miss Sloane** (2016)**
 
 In this tense thriller drama, Elizabeth Sloane, one of the most desired lobbyists in Washington, DC, is entrusted to fight a bill that imposes firearms. It has been reviewed that Miss Sloane and Molly’s Game share similar visual aspects in screen style, tone, cinematography, and direction.
 
 ![Jessica Chastain as a powerful lobbyist testifying before a congressional committee in Miss Sloane, surrounded by a packed courtroom](/images/miss-sloane-jessica-chastain-congress-hearing-U3ND.png)
 
 *source-Jessica Chastain finds herself at the center of a Senate hearing in “Miss Sloane”. Source: Bloomberg*
-
-**Release date:** 2016
 
 **Director:** John Madden
 
@@ -56,15 +54,13 @@ The Writers Guild of Great Britain awarded Jonathan Perera for Best Screenplay i
 
 Jessica Chastain’s acting prowess ensures that Elizabeth Sloane doesn’t come off as a stereotypical character. The movie starts as a lean thriller and transforms into a twist-filled jumble. It also features Mark Strong, Allison Pill, and Sam Waterston, among others. A political thriller based on personal and professional challenges, this 2016 film centers on power, ambition, and ethical compromise.
 
-### **2. The Card Counter:** 
+### **#2  The Card Counter** (2021)**
 
 The 2021 film sets screens similarly to Molly’s Game, a crime thriller that explores card games captured with an interwoven personal narrative. It is a movie about a solitary gambler, played by Oscar Isaac, who is haunted by his past and becomes entangled in the vengeful schemes of a young man.
 
 ![Oscar Isaac sits at a poker table in The Card Counter, calmly focused with stacks of chips in front of him in a dimly lit casino room](/images/the-card-counter-oscar-isaac-poker-table-U0MT.png)
 
 *source-Oscar Isaac in The Card Counter (2021): Source: IMDb*
-
-**Release date:** 2021
 
 **Director:** Paul Schrader
 
@@ -82,15 +78,13 @@ Awarded Best Actor to Oscar Isaac from the Indiana Film Journalists Association.
 
 Oscar Isaac's gripping performance is well captured on the screen as he plays William Tell, a gambler who taught himself how to count cards during an eight-year stint in military prison. Critics and reviewers portray Isaac as an army veteran who had become a professional gambler when a chance for a grim rebalancing appears in Paul Schrader’s vehement drama.
 
-### **3. Rounders:** 
+### **#3  Rounders** (2021)**
 
 A 1998 crime drama and thriller starring Matt Damon as Mike, a young ex-gambler who is forced to return to the underground world of poker when a friend requests his assistance in paying back a loan shark.
 
 ![](/images/rounders-matt-damon-gretchen-mol-apartment-scene-QzMz.png)
 
 *source-Matt Damon and Famke Janssen in Rounders (1998). Source: IMDb*
-
-**Release date:** 2021
 
 **Director:** John Dahl
 
@@ -114,15 +108,13 @@ Matt Damon plays the movie's central figure, Mike McDermott, a law student who i
 
 From the book to the motion picture, Molly's Game captured an audience who loved the perfect setting of a poker-themed crime drama. If fans of Molly’s Game are thrilled with such intense crime and courtroom drama, the following is just the right movie for you to capture a similar essence.
 
-### **1. The Trial of the Chicago 7:** 
+### **#1  The Trial of the Chicago 7** (2020)**
 
 This courtroom drama stemmed from a peaceful protest that became a violent clash with the police and one of the most notorious trials in history. It perfectly portrays modern courtroom drama, starring Sacha Baron Cohen, Eddie Redmayne, and Yahya Abdul-Mateen II. The screenwriter and director of the movie, Aaron Sorkin, bagged the Golden Globe for Best Screenplay.
 
 ![Eddie Redmayne and fellow cast members sit in a tense courtroom setting in The Trial of the Chicago 7, portraying the high-profile political trial following the 1968 Democratic National Convention protests](/images/trial-of-the-chicago-7-courtroom-scene-eddie-redmayne-M3Mj.png)
 
 *source-Mark Rylance, Ben Shenkman, Eddie Redmayne, Alex Sharp, and Yahya Abdul-Mateen II in The Trial of the Chicago 7 (2020). Source: IMDb*
-
-**Release date:** 2020
 
 **Director:** Aaron Sorkin
 
@@ -138,15 +130,13 @@ The movie dramatizes the tribe and deals with issues that still trouble America.
 
 It is themed on what was intended to be a peaceful protest that turned into a violent clash with the police and the National Guard. It is screened as the story of the trial that followed. Aaron Sorkin’s captivating dramatisation of the trial of a group of '60s radicals illuminates issues that still trouble America and its history.
 
-### **2. The Wizard of Lies:** 
+### **#2  The Wizard of Lies** (2017)**
 
 A movie that personifies ambition and legal challenges, much like Molly Bloom’s world. In the film, Madoff's hubris, played by Robert De Niro, overlaps with Molly's legal conflicts and moral dilemmas; his downfall provides a narrative juncture on high-stakes legal drama.
 
 ![Robert De Niro as Bernie Madoff stands in an elevator with two men in a scene from The Wizard of Lies, portraying the fallout of one of the biggest financial frauds in U.S. history](/images/the-wizard-of-lies-robert-de-niro-bernie-madoff-YzNT.png)
 
 *source-Robert De Niro, Alessandro Nivola, and Nathan Darrow in The Wizard of Lies (2017). Source: IMDb*
-
-**Release date:** 2017
 
 **Director:** Barry Levinson
 
