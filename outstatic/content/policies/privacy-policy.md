@@ -18,15 +18,15 @@ Movie Suggestions ("Website") is a newsletter owned and operated by Sagravia LLC
 
 We may collect personal information that you voluntarily provide to us when you register on the Website, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise enter information on our Website. This information may include:
 
-- Name
+\- Name
 
-- Email address
+\- Email address
 
-- Phone number
+\- Phone number
 
-- Mailing address
+\- Mailing address
 
-- Any other information you choose to provide
+\- Any other information you choose to provide
 
 We use Leadfeeder to gather information about visitors to our website, including your name, email, designation, and company. This data is collected for sales purposes to help us identify potential leads and improve our sales processes. Leadfeeder tracks this information based on visitor interactions, such as IP addresses, pages visited, and session duration. For more details on how Leadfeeder processes data, please refer to [their privacy policy](https://www.leadfeeder.com/privacy/).
 
@@ -36,31 +36,31 @@ In compliance with the CAN-SPAM Act, all emails sent from us will clearly state 
 
 We may also collect non-personal information about you automatically when you access or use the Website. This information may include:
 
-- Browser type
+\- Browser type
 
-- Operating system
+\- Operating system
 
-- IP address
+\- IP address
 
-- Pages viewed
+\- Pages viewed
 
-- Time and date of visits
+\- Time and date of visits
 
-- Other anonymous statistical data involving your use of the Website
+\- Other anonymous statistical data involving your use of the Website
 
 **2. How We Use Your Information**
 
 We use the information we collect to:
 
-- Provide and manage our newsletter services.
+\- Provide and manage our newsletter services.
 
-- Personalize your experience on our Website.
+\- Personalize your experience on our Website.
 
-- Improve our Website and newsletter content.
+\- Improve our Website and newsletter content.
 
-- Communicate with you about updates, offers, and other information related to our newsletters.
+\- Communicate with you about updates, offers, and other information related to our newsletters.
 
-- Monitor and analyze usage and trends to improve our Website and services.
+\- Monitor and analyze usage and trends to improve our Website and services.
 
 **3. Sharing Your Information**
 
