@@ -12,13 +12,13 @@ export default function AdvertiseStatus() {
               {content.advertise.statusSection.heading}
             </h2>
           </div>
-          <div className="flex-1">
+          <div className="flex-1 ">
             <ul>
               {content.advertise.statusSection.list.map((el, index) => (
                 <li key={el.title} className={`${index > 0 && "mt-10"}`}>
                   <div className="flex items-end">
                     <p
-                      className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
+                      className={`text-5xl md:text-6xl text-nl_sec_background min-w-[120px] ${libre.className}`}
                     >
                       {el.title}
                     </p>

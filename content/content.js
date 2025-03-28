@@ -18,7 +18,7 @@ const content = {
       buttonText: "Advertise with us",
     },
     statusSection: {
-      heading: "Reach new customers with Business History.",
+      heading: "Reach new customers with Movie Suggestions.",
       list: [
         {
           title: "54%",
@@ -40,8 +40,8 @@ const content = {
         {
           title: "Advertise with us",
           type: "email",
-          href: "contact@businesshistory.co",
-          content: "contact@businesshistory.co",
+          href: "contact@moviesuggestions.com",
+          content: "contact@moviesuggestions.com",
         },
 
         {
@@ -65,8 +65,8 @@ const content = {
         {
           title: "Advertise with us",
           type: "email",
-          href: "contact@businesshistory.co",
-          content: "contact@businesshistory.co",
+          href: "contact@moviesuggestions.com",
+          content: "contact@moviesuggestions.com",
         },
 
         {

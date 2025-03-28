@@ -108,7 +108,7 @@ export default function ContactForm() {
 
   console.log("details :>> ", details);
   return (
-    <div className="bg-nl_sec_background ">
+    <div className="bg-nl_sec_background text-white">
       <section className={`px-0 lg:px-16 max-w-7xl mx-auto`}>
         <div
           className={`px-4 lg:px-0 py-28 bg-nl_sec_background flex flex-col sm:flex-row ${
@@ -309,7 +309,7 @@ export default function ContactForm() {
                       </Link>
                     </p>
                     <Button
-                      className="bg-black px-4 py-1 text-white rounded-none"
+                      className="bg-nl_background px-4 py-1 rounded-none text-black hover:bg-nl_background"
                       type="submit"
                     >
                       {isLoading ? <LoadingSpinner /> : "Send"}

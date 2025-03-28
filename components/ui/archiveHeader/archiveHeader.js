@@ -2,7 +2,7 @@ import libre from "@/components/libre-font";
 
 export default function ArchiveHeader() {
   return (
-    <div className="">
+    <div className="bg-nl_sec_background">
       <div
         className={`px-4 md:px-16 pt-20 ${libre.className} leading-tight max-w-7xl mx-auto`}
       >
