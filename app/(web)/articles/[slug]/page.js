@@ -106,7 +106,8 @@ export default async function Home({ params }) {
     .replace(
       /<p class="mb-4 text-gray-300"><img/g,
       `<p class="mb-2" style=""><img`
-    );
+    )
+    .replaceAll("*", "");
   return (
     <>
       <section className="bg-nl_sec_background">
