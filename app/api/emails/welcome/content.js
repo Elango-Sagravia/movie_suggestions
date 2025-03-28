@@ -606,7 +606,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:24px;vertical-align:middle;width:24px;">
-                  <a  href="https://x.com/MovieSuggest" target="_blank">
+                  <a  href="https://www.facebook.com/profile.php?id=61574440239538" target="_blank">
                     <img
                        height="24" src="https://www.moviesuggestions.com/social-icons/ms-fb.png" style="border-radius:3px;display:block;" width="24"
                     />
