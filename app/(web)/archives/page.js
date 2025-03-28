@@ -6,8 +6,9 @@ import blogs from "@/blogs";
 import { getDocuments } from "outstatic/server";
 
 export const metadata = {
-  title: "",
-  description: "",
+  title: "Movie Suggestions Archives – Past Editions & Recommendations",
+  description:
+    "Catch up on all past editions of the Movie Suggestions newsletter. Browse previous movie picks, themed lists, and recommendations you might have missed.",
   alternates: {
     canonical: "https://www.moviesuggestions.com/archives",
   },

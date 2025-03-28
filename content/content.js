@@ -2,8 +2,9 @@ const content = {
   homePage: {
     hero: {
       title: "No more endless scrolling. Just sit back and press play!",
-      subTitle: "Be the first to know when we launch. Sign up now!",
-      preSubTitle: "Movies Suggestions – Coming Soon!",
+      subTitle:
+        "Join thousands of movie lovers and enjoy our Friday hidden gems!",
+      preSubTitle: "",
     },
   },
   subscribe: {
@@ -11,10 +12,9 @@ const content = {
   },
   advertise: {
     hero: {
-      title:
-        "Our newsletter connects with thousands of engaged subscribers every weekend.",
+      title: "Reach thousands of movie lovers every week.",
       subTitle:
-        "Partner with us to place your brand alongside content our readers trust and love.",
+        "We connect with an audience that’s engaged, loyal, and ready to watch.",
       buttonText: "Advertise with us",
     },
     statusSection: {
@@ -81,15 +81,15 @@ const content = {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free."`,
+          answer: `To subscribe, enter your email address in the subscription box and click "Subscribe." It’s quick, easy, and free.`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You’ll receive three newsletters every weekend—one on Friday, Saturday, and Sunday, each packed with movie recommendations and streaming links.`,
+          answer: `You’ll receive our Movie Suggestions newsletter every Friday, just in time to plan your weekend watchlist.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Each newsletter features curated movie picks, behind-the-scenes trivia, streaming links, and bonus content like TV show recommendations or soundtracks.`,
+          answer: `Each newsletter features a movie of the week, other movies you might enjoy, a TV show recommendation, our insights, fun movie trivia, and occasional special editions.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",

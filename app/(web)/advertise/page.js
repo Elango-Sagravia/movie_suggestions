@@ -4,8 +4,9 @@ import AdvertiseQuestion from "@/components/ui/advertiseQuestion/advertiseQuesti
 import AdvertiseStatus from "@/components/ui/advertiseStatus/advertiseStatus";
 
 export const metadata = {
-  title: "",
-  description: "",
+  title: "Advertise with Us – Partner with Movie Suggestions",
+  description:
+    " Reach a movie-loving audience! Advertise with Movie Suggestions and showcase your brand to film enthusiasts worldwide. Get started today",
   alternates: {
     canonical: "https://www.moviesuggestions.com/advertise",
   },
@@ -15,7 +16,7 @@ export default function Advertise() {
   return (
     <main>
       <AdvertiseHero />
-      <AdvertiseStatus />
+      {/* <AdvertiseStatus /> */}
       <AdvertiseForm />
       <AdvertiseQuestion />
     </main>

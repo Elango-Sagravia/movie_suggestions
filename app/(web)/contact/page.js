@@ -5,8 +5,9 @@ import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
 export const metadata = {
-  title: "",
-  description: "",
+  title: "Contact Us – Get in Touch with Movie Suggestions",
+  description:
+    "Have a question or suggestion? Contact Movie Suggestions for inquiries, feedback, or collaborations. We’d love to hear from you!",
   alternates: {
     canonical: "https://www.moviesuggestions.com/contact",
   },

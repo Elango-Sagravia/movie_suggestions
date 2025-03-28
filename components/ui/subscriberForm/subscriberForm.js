@@ -169,11 +169,13 @@ function SubscriberForm({ formClasses }) {
               <LoadingSpinner />
             )
           ) : (
-            "Join the waitlist"
+            "Subscribe"
           )}
         </Button>
       </div>
-      <p className="text-[12px]">100% free. No spam. Unsubscribe anytime.</p>
+      <p className="text-[12px] text-gray-400">
+        100% free. No spam. Unsubscribe anytime.
+      </p>
     </form>
   );
 }
