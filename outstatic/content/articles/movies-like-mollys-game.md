@@ -34,7 +34,7 @@ Just in case you loved Molly’s Game, here are some movies similar to Molly’s
 
 ![Jessica Chastain as a powerful lobbyist testifying before a congressional committee in Miss Sloane, surrounded by a packed courtroom](/images/miss-sloane-jessica-chastain-congress-hearing-U3ND.png)
 
-*Jessica Chastain finds herself at the center of a Senate hearing in “Miss Sloane”. Source: Bloomberg*
+*source-Jessica Chastain finds herself at the center of a Senate hearing in “Miss Sloane”. Source: Bloomberg*
 
 **1. Miss Sloane:** In this tense thriller drama, Elizabeth Sloane, one of the most desired lobbyists in Washington, DC, is entrusted to fight a bill that imposes firearms. It has been reviewed that Miss Sloane and Molly’s Game share similar visual aspects in screen style, tone, cinematography, and direction.
 
