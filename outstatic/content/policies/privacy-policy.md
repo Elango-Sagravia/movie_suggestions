@@ -136,17 +136,17 @@ If you are a resident of the European Economic Area (EEA), you have certain data
 
 As a resident of the EEA, you have the following data protection rights:
 
-The right to access, update, or to delete the information we have on you.
+**The right to access, update, or to delete the information we have on you.**
 
-The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+**The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
 
-The right to object. You have the right to object to our processing of your Personal Data.
+**The right to object.** You have the right to object to our processing of your Personal Data.
 
-The right of restriction. You have the right to request that we restrict the processing of your personal information.
+**The right of restriction.** You have the right to request that we restrict the processing of your personal information.
 
-The right to data portability. You have the right to be provided with a copy of your information in a structured, machine-readable, and commonly used format.
+**The right to data portability.** You have the right to be provided with a copy of your information in a structured, machine-readable, and commonly used format.
 
-The right to withdraw consent. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
 To exercise these rights, please contact us at [contact@moviesuggestions.com](mailto:contact@moviesuggestions.com). We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
 
