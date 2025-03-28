@@ -16,7 +16,7 @@ publishedAt: '2025-03-28T07:35:13.637Z'
 
 ![Idris Elba and Jessica Chastain in a dramatic scene from Molly's Game, having an intense conversation inside a high-rise office at night](/images/mollys-game-idris-elba-jessica-chastain-confrontation-YxOT.png)
 
-*Idris Elba and Jessica Chastain in Molly's Game (2017). Source: IMDb*
+*source-Idris Elba and Jessica Chastain in Molly's Game (2017). Source: IMDb*
 
 **Intro:** Molly’s Game is a biographical crime drama based on the true story of a 26-year-old woman who organized an exclusive underground poker game. The movie swiftly reveals how an injury took her out of competitive skiing, bringing her into the dark side of money and poker, and how her poker adventures brought her close to the FBI.
 
