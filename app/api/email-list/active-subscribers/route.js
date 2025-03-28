@@ -7,7 +7,7 @@ export async function GET(request) {
   try {
     const websiteId = 6; // Website ID to filter
 
-    // SQL Query to fetch all unique users (Opened emails OR Last 2 subscribers) with priorities
+    // SQL Query to fetch all unique users (Opened emails OR Last 10 days subscribers) with priorities
     const sql = `
       WITH opened_email_users AS (
         SELECT u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at
@@ -57,12 +57,12 @@ export async function GET(request) {
       priority_2_users AS (
         SELECT id, email, uniqueid, status, zbstatus, created_at, 2 AS priority
         FROM sorted_remaining_users
-        WHERE row_num <= 500
+        WHERE row_num <= 4000
       ),
       priority_3_users AS (
         SELECT id, email, uniqueid, status, zbstatus, created_at, 3 AS priority
         FROM sorted_remaining_users
-        WHERE row_num > 500
+        WHERE row_num > 4000
       ),
       final_users AS (
         SELECT * FROM priority_1_users
@@ -86,7 +86,10 @@ export async function GET(request) {
       }),
       {
         status: 200,
-        headers: { "Content-Type": "application/json" },
+        headers: {
+          "Content-Type": "application/json",
+          "Cache-Control": "no-store, max-age=0",
+        },
       }
     );
   } catch (error) {
