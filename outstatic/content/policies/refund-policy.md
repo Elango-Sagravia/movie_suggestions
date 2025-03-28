@@ -7,7 +7,7 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
-publishedAt: '2024-12-03T17:17:29.343Z'
+publishedAt: '2025-03-26T17:17:29.000Z'
 ---
 
 Movie Suggestions ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to ensuring that our customers are satisfied with their experience. This Refund Policy outlines the conditions under which refunds may be issued.
@@ -20,9 +20,9 @@ Refunds are available to advertisers under the following circumstances:
 
 If the scheduled newsletter is not delivered due to a fault on our part, we offer two options:
 
-- Rescheduling: We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
+- **Rescheduling:** We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
 
-- Full Refund: If rescheduling is not feasible or preferred, a full refund will be issued.
+- **Full Refund:** If rescheduling is not feasible or preferred, a full refund will be issued.
 
 Non-delivery refers to technical issues on our end that result in the newsletter not being sent to the subscribers.
 
@@ -76,4 +76,4 @@ We reserve the right to modify or update this Refund Policy at any time. Any cha
 
 **6. Contact Information**
 
-If you have any questions or concerns about this Refund Policy, please contact us at [contact@moviesuggestions.com](mailto:contact@moviesuggestions.com). 
+If you have any questions or concerns about this Refund Policy, please contact us at [contact@moviesuggestions.com](mailto:contact@moviesuggestions.com).
