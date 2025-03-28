@@ -32,7 +32,7 @@ With fast-paced intercuts and a scintillating background score, the film keeps o
 
 Just in case you loved Molly’s Game, here are some movies similar to Molly’s Game, ranked by fans.
 
-### **#1  Miss Sloane** (2016)**
+### **#1  Miss Sloane (2016)**
 
 In this tense thriller drama, Elizabeth Sloane, one of the most desired lobbyists in Washington, DC, is entrusted to fight a bill that imposes firearms. It has been reviewed that Miss Sloane and Molly’s Game share similar visual aspects in screen style, tone, cinematography, and direction.
 
@@ -54,7 +54,7 @@ The Writers Guild of Great Britain awarded Jonathan Perera for Best Screenplay i
 
 Jessica Chastain’s acting prowess ensures that Elizabeth Sloane doesn’t come off as a stereotypical character. The movie starts as a lean thriller and transforms into a twist-filled jumble. It also features Mark Strong, Allison Pill, and Sam Waterston, among others. A political thriller based on personal and professional challenges, this 2016 film centers on power, ambition, and ethical compromise.
 
-### **#2  The Card Counter** (2021)**
+### **#2  The Card Counter (2021)**
 
 The 2021 film sets screens similarly to Molly’s Game, a crime thriller that explores card games captured with an interwoven personal narrative. It is a movie about a solitary gambler, played by Oscar Isaac, who is haunted by his past and becomes entangled in the vengeful schemes of a young man.
 
@@ -78,7 +78,7 @@ Awarded Best Actor to Oscar Isaac from the Indiana Film Journalists Association.
 
 Oscar Isaac's gripping performance is well captured on the screen as he plays William Tell, a gambler who taught himself how to count cards during an eight-year stint in military prison. Critics and reviewers portray Isaac as an army veteran who had become a professional gambler when a chance for a grim rebalancing appears in Paul Schrader’s vehement drama.
 
-### **#3  Rounders** (2021)**
+### **#3  Rounders (2021)**
 
 A 1998 crime drama and thriller starring Matt Damon as Mike, a young ex-gambler who is forced to return to the underground world of poker when a friend requests his assistance in paying back a loan shark.
 
@@ -108,7 +108,7 @@ Matt Damon plays the movie's central figure, Mike McDermott, a law student who i
 
 From the book to the motion picture, Molly's Game captured an audience who loved the perfect setting of a poker-themed crime drama. If fans of Molly’s Game are thrilled with such intense crime and courtroom drama, the following is just the right movie for you to capture a similar essence.
 
-### **#1  The Trial of the Chicago 7** (2020)**
+### **#1  The Trial of the Chicago 7 (2020)**
 
 This courtroom drama stemmed from a peaceful protest that became a violent clash with the police and one of the most notorious trials in history. It perfectly portrays modern courtroom drama, starring Sacha Baron Cohen, Eddie Redmayne, and Yahya Abdul-Mateen II. The screenwriter and director of the movie, Aaron Sorkin, bagged the Golden Globe for Best Screenplay.
 
@@ -130,7 +130,7 @@ The movie dramatizes the tribe and deals with issues that still trouble America.
 
 It is themed on what was intended to be a peaceful protest that turned into a violent clash with the police and the National Guard. It is screened as the story of the trial that followed. Aaron Sorkin’s captivating dramatisation of the trial of a group of '60s radicals illuminates issues that still trouble America and its history.
 
-### **#2  The Wizard of Lies** (2017)**
+### **#2  The Wizard of Lies (2017)**
 
 A movie that personifies ambition and legal challenges, much like Molly Bloom’s world. In the film, Madoff's hubris, played by Robert De Niro, overlaps with Molly's legal conflicts and moral dilemmas; his downfall provides a narrative juncture on high-stakes legal drama.
 
