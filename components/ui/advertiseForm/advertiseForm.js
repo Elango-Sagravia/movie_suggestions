@@ -25,7 +25,7 @@ import { cn } from "@/lib/utils";
 import countries from "@/data/countries";
 import { SelectItemIndicator, SelectItemText } from "@radix-ui/react-select";
 
-const quarters = ["Q3 2024", "Q4 2024", "Q1 2025", "Q2 2025"];
+const quarters = ["Q1 2025", "Q2 2025", "Q3 2025", "Q4 2025"];
 const stages = [
   "Bootstrap",
   "Venture-backed",
@@ -124,7 +124,7 @@ export default function AdvertiseForm() {
   return (
     <div className="bg-nl_sec_background">
       <section
-        className="px-4 md:px-16 lg:py-16 max-w-7xl mx-auto  bg-nl_sec_background"
+        className="px-4 md:px-16 lg:py-16 max-w-7xl mx-auto  bg-nl_sec_background text-white"
         id="advertise-form"
       >
         <div
@@ -301,7 +301,7 @@ export default function AdvertiseForm() {
                           className="flex items-center space-x-2 flex-1 border px-2 py-2 border-input"
                         >
                           <RadioGroupItem
-                            className="w-3 h-3"
+                            className={`w-3 h-3 rounded-full border border-white text-white data-[state=checked]:text-nl_background`}
                             value={el}
                             id={el}
                           />
@@ -394,14 +394,14 @@ export default function AdvertiseForm() {
                       By submitting this form you agree to our{" "}
                       <Link
                         className="underline underline-offset-4"
-                        href="/privacy-policy"
+                        href="policy/privacy-policy"
                         target="_blank"
                       >
                         Privacy Policy
                       </Link>
                     </p>
                     <Button
-                      className="bg-black px-4 py-1 text-white rounded-none"
+                      className="bg-nl_background px-4 py-1  rounded-none text-black hover:bg-nl_background"
                       type="submit"
                     >
                       {isLoading ? <LoadingSpinner /> : "Send"}

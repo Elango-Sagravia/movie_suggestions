@@ -70,7 +70,7 @@ export async function generateMetadata({ params }) {
     title: post.metaTitle,
     description: post.metaDescription,
     alternates: {
-      canonical: `https://www.businesshistory.co/archives/${canonicalSlug}`,
+      canonical: `https://www.moviesuggestions.com/archives/${canonicalSlug}`,
     },
     metadataBase: new URL(process.env.url),
     themeColor: "#8c3321",

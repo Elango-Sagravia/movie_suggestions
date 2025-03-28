@@ -4,7 +4,7 @@ import libre from "@/components/libre-font";
 
 export default function AdvertiseQuestion() {
   return (
-    <section className="px-4 md:px-16 py-24">
+    <section className="px-4 md:px-16 py-24 bg-nl_sec_background">
       <div className="flex flex-col items-center">
         <h5
           className={`text-nl_background text-5xl text-center ${libre.className} leading-tight`}
