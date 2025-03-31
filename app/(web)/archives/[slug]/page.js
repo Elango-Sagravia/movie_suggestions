@@ -67,22 +67,22 @@ export async function generateMetadata({ params }) {
   const canonicalSlug = canonicalOverrides[slug] || slug;
 
   return {
-    title: post.metaTitle,
-    description: post.metaDescription,
+    title: post?.metaTitle,
+    description: post?.metaDescription,
     alternates: {
       canonical: `https://www.moviesuggestions.com/archives/${canonicalSlug}`,
     },
     metadataBase: new URL(process.env.url),
     themeColor: "#8c3321",
     openGraph: {
-      title: post.metaTitle,
-      description: post.metaDescription,
+      title: post?.metaTitle,
+      description: post?.metaDescription,
       url: process.env.url,
       images: [
         {
-          url: post.coverImage,
-          secureUrl: post.coverImage,
-          alt: "Business history",
+          url: post?.coverImage,
+          secureUrl: post?.coverImage,
+          alt: "Movie Suggestions",
         },
       ],
       type: "article",
