@@ -46,7 +46,7 @@ export const metadata = {
   description:
     "Find movie blogs packed with recommendations, behind-the-scenes insights, and where-to-watch links. Your go-to place for weekend movie picks and trivia.",
   alternates: {
-    canonical: "https://www.moviesugestions.com/articles",
+    canonical: "https://www.moviesuggestions.com/articles",
   },
 };
 export default async function blogs() {
