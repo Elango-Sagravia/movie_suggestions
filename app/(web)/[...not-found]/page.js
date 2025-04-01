@@ -1,13 +1,13 @@
 "use client";
 import { useEffect } from "react";
-import { redirect, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 
 export default function CatchAllRedirect() {
   const router = useRouter();
 
   useEffect(() => {
     setTimeout(() => {
-      redirect("/");
+      router.push("/");
     }, 3000); // Redirects after 3 seconds
   }, []);
 
