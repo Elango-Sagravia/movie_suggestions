@@ -8,6 +8,7 @@ import Navbar from "@/components/ui/navbar/navbar";
 import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
 import { GoogleAnalytics } from "@next/third-parties/google";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
@@ -42,13 +43,45 @@ export async function generateMetadata() {
   };
 }
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Movie Suggestions",
+  alternateName: "moviesuggestions",
+  url: "https://www.moviesuggestions.com/",
+  logo: "https://www.moviesuggestions.com/logo.png",
+  contactPoint: {
+    "@type": "ContactPoint",
+    telephone: "(307) 429-0673",
+    contactType: "customer service",
+    contactOption: "TollFree",
+    areaServed: "US",
+    availableLanguage: "en",
+  },
+  sameAs: [
+    "https://www.facebook.com/profile.php?id=61574440239538",
+    "https://www.instagram.com/moviesuggestions",
+    "https://x.com/MovieSuggest",
+    "https://www.linkedin.com/showcase/movie-suggestions/",
+  ],
+};
+
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
-      <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
-      />
+      <head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+        />
+        <Script
+          id="schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(jsonLd),
+          }}
+        />
+      </head>
 
       <body>
         <ThemeProvider
