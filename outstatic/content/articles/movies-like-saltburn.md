@@ -20,7 +20,7 @@ This divisive movie split the fans into two clubs. One will compare it to Brides
 
 ![Three characters from Saltburn sitting in a dimly lit room after a party](/images/saltburn-party-aftermath-gzMj.png)
 
-*Alison Oliver, Barry Keoghan, and Jacob Elordi in Saltburn. Source: IMDb*
+*source-Alison Oliver, Barry Keoghan, and Jacob Elordi in Saltburn. Source: IMDb*
 
 The unsettling frame and the inconclusive cinematic themes make Saltburn a watch to remember. This thriller with a twist has been revered as a cult classic for its disturbing, twisted experience. Director Emerald Fennell weaves a more complex narrative with an ending open to interpretation. The climax leaves viewers questioning the nature of the lead’s actions and the movie's overall message.
 
@@ -42,7 +42,7 @@ This movie keeps questioning the audience. To what lengths will you push yoursel
 
 ![A character in a robe overlooks a messy lawn after a party in Saltburn](/images/saltburn-morning-after-Q0MD.png)
 
-*Movie still from Saltburn featuring The Garden of Earthly Delights. Source: Daily Art Magazine*
+*source-Movie still from Saltburn featuring The Garden of Earthly Delights. Source: Daily Art Magazine*
 
 Who doesn’t like watching extravagant things on screen? The life of the rich will always evoke a fascination among the audience, and this movie deals with the concept of lavishness and privilege that captivates them. Add in a touch of psychological thriller and a morally ambiguous protagonist, and the viewers are sure to be hooked.
 
@@ -60,7 +60,7 @@ A journey into the lives of two young women who are faced with the challenge of 
 
 ![Two characters from Thoroughbreds standing in a garden, one looking away](/images/thoroughbreds-garden-conversation-k0OD.png)
 
-*Olivia Cooke and Anya Taylor-Joy in Thoroughbreds. Source: IMDb*
+*source-Olivia Cooke and Anya Taylor-Joy in Thoroughbreds. Source: IMDb*
 
 **Director:** Cory Finley
 
@@ -90,7 +90,7 @@ A film that fully encompasses the essence of Saltburn: a rich house, wealthy cha
 
 ![Two characters from A Simple Favor clinking martini glasses in a modern kitchen](/images/a-simple-favor-kitchen-drinks-g4NT.png)
 
-*Anna Kendrick and Blake Lively in A Simple Favor (2018). Source: IMDb*
+*source-Anna Kendrick and Blake Lively in A Simple Favor (2018). Source: IMDb*
 
 **Director:** Paul Feig
 
@@ -118,7 +118,7 @@ Starring Barry Keoghan, the lead actor of Saltburn, this film explores a similar
 
 ![Two characters from The Killing of a Sacred Deer holding a rifle together](/images/the-killing-of-a-sacred-deer-rifle-scene-A2Mz.png)
 
-*Nicole Kidman and Colin Farrell in The Killing of a Sacred Deer. Source IMDb*
+*source-Nicole Kidman and Colin Farrell in The Killing of a Sacred Deer. Source IMDb*
 
 **Director:** Yorgos Lanthimos
 
@@ -144,7 +144,7 @@ A film based on the 1955 novel of the same title takes a dig at less privileged 
 
 ![Two characters from The Talented Mr. Ripley talking at a table with a typewriter](/images/the-talented-mr-ripley-typewriter-scene-Y0Nz.png)
 
-*Jude Law and Matt Damon in The Talented Mr. Ripley (1999). Source: IMDb*
+*source-Jude Law and Matt Damon in The Talented Mr. Ripley (1999). Source: IMDb*
 
 **Director:** Anthony Minghella
 
@@ -172,7 +172,7 @@ Parasite represents the looming class divide of modern society. A highly enterta
 
 ![The family from Parasite folding pizza boxes in their small apartment](/images/parasite-family-pizza-scene-gxNT.png)
 
-*A scene from the 2019 Parasite depicting the struggle of the less wealthy. Source: The New York Times*
+*source-A scene from the 2019 Parasite depicting the struggle of the less wealthy. Source: The New York Times*
 
 **Director:** Bong Joon Ho
 
