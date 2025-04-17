@@ -5,7 +5,7 @@ author:
   name: ''
   picture: ''
 slug: '5-movies-like-secret-life-of-walter-mitty'
-description: ''
+description: 'Did Walter Mitty''s journey of self-realization inspire you to travel or adventure? Well then, the list is just as inspirational and heartwarming. These five movies are about self-care, discovery, and friendship. '
 coverImage: '/images/adventure-movie-collage-Q0Mz.png'
 readTime: '12'
 metaTitle: '5 Inspiring Movies Like The Secret Life of Walter Mitty'
