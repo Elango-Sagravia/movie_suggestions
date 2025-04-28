@@ -1,7 +1,7 @@
 import { query } from "@/lib/db";
 
 export async function GET(request) {
-  const website_id = 6;
+  const website_id = 6; // Fixed website ID
   const { searchParams } = new URL(request.url);
   const date = searchParams.get("date") || "2024-10-08"; // Replace with default or provided date
 
@@ -12,11 +12,49 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        GROUP BY users.country
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
+
+    const referrerResult = await query(
+      `SELECT users.referrer, CAST(COUNT(*) AS INTEGER) AS total_subscribers
+       FROM users
+       JOIN subscribers ON users.id = subscribers.user_id
+       WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
+       AND DATE(subscribers.created_at) = $1
+       GROUP BY users.referrer
+       ORDER BY total_subscribers DESC;`,
+      [date, 1]
+    );
+
+    // Email opens query: Count of emails opened on the given date for website_id = 1
+    const emailOpensResult = await query(
+      `SELECT COUNT(*) AS email_opens
+       FROM emails_open
+       JOIN campaigns ON emails_open.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_open.opened_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailOpensCount = emailOpensResult.rows[0]?.email_opens || 0;
+
+    // Emails unsubscribe query: Count of unsubscribes on the given date for website_id = 1
+    const emailUnsubscribesResult = await query(
+      `SELECT COUNT(*) AS email_unsubscribes
+       FROM emails_unsubscribe
+       JOIN campaigns ON emails_unsubscribe.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_unsubscribe.unsubscribed_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailUnsubscribesCount =
+      emailUnsubscribesResult.rows[0]?.email_unsubscribes || 0;
 
     // Desktop: browser and platform counts
     const browserDesktopResult = await query(
@@ -24,11 +62,12 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Desktop'
        GROUP BY users.browser
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
 
     const platformDesktopResult = await query(
@@ -36,11 +75,12 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Desktop'
        GROUP BY users.platform
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
 
     // Mobile: browser and platform counts
@@ -49,11 +89,12 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Mobile'
        GROUP BY users.browser
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
 
     const platformMobileResult = await query(
@@ -61,11 +102,12 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Mobile'
        GROUP BY users.platform
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
 
     // Tablet: browser and platform counts
@@ -74,11 +116,12 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Tablet'
        GROUP BY users.browser
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
 
     const platformTabletResult = await query(
@@ -86,12 +129,23 @@ export async function GET(request) {
        FROM users
        JOIN subscribers ON users.id = subscribers.user_id
        WHERE subscribers.website_id = ${website_id}
+       AND users.source_id = $2
        AND DATE(subscribers.created_at) = $1
        AND users.device = 'Tablet'
        GROUP BY users.platform
        ORDER BY total_subscribers DESC;`,
-      [date]
+      [date, 1]
     );
+    const emailSentResult = await query(
+      `SELECT COUNT(*) AS email_sent
+       FROM emails_sent
+       JOIN campaigns ON emails_sent.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_sent.created_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailSentCount = emailSentResult.rows[0]?.email_sent || 0;
 
     // Helper function to sum up counts
     const sumCounts = (list) => list.reduce((acc, row) => acc + row.count, 0);
@@ -99,6 +153,11 @@ export async function GET(request) {
     // Structuring the result in a single response object with summed counts
     const countriesList = countryResult.rows.map((row) => ({
       country: row.country,
+      count: row.total_subscribers,
+    }));
+
+    const referrerList = referrerResult.rows.map((row) => ({
+      referrer: row.referrer,
       count: row.total_subscribers,
     }));
 
@@ -138,6 +197,10 @@ export async function GET(request) {
         list: countriesList,
         total_subscribers: sumCounts(countriesList),
       },
+      referrers: {
+        list: referrerList,
+        total_subscribers: sumCounts(referrerList),
+      },
       desktop: {
         count: sumCounts(desktopBrowsers), // Sum of browsers and platforms counts for desktop
         browsers: desktopBrowsers,
@@ -152,6 +215,18 @@ export async function GET(request) {
         count: sumCounts(tabletBrowsers), // Sum of browsers and platforms counts for tablet
         browsers: tabletBrowsers,
         platforms: tabletPlatforms,
+      },
+      email_opens: {
+        date,
+        count: emailOpensCount,
+      },
+      email_unsubscribes: {
+        date,
+        count: emailUnsubscribesCount,
+      },
+      email_sent: {
+        date,
+        count: emailSentCount, // Add the count of emails sent
       },
     };
 
