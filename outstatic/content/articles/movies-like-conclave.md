@@ -188,6 +188,8 @@ Msgr. Dario Edoardo Viganò, Prefect of the Vatican Secretariat for Communicatio
 
 ## How movies like The Two Popes, The New Pope, or Shoes of the Fisherman are a fable of the Pope’s election
 
+![After a tense and emotional journey throughout the conclave, Lawrence’s final moments are marked by a profound sense of resignation and contemplation](/images/cardinal-lawrence-final-scene-conclave-resignation-contemplation-c0Nz.png)
+
 source-Ralph Fiennes in Conclave (2024). Source: IMDb
 
 As the Vatican prepares for the most holy event in the Catholic world, movies such as The Two Popes, The New Pope, [Shoes of the Fisherman](https://www.imdb.com/title/tt0063599/), or Conclave paint a picture of the mysterious world behind the selection of the new Pope. It also talks about the pressures of being a Pope and the underlying political currents behind the secretive walls of the Vatican.
