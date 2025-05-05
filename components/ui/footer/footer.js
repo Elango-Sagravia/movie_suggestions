@@ -58,7 +58,7 @@ export default function Footer() {
                   target="_blank"
                   href="https://x.com/MovieSuggest"
                 >
-                  Twitter
+                  X
                 </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
@@ -131,7 +131,7 @@ export default function Footer() {
                     target="_blank"
                     href="https://x.com/MovieSuggest"
                   >
-                    Twitter
+                    X
                   </Link>
                 </li>
                 <li className="py-2 hover:underline underline-offset-8">
