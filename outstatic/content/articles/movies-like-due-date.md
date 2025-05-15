@@ -1,6 +1,6 @@
 ---
 title: '5 Hilarious movies like Due Date you need to watch'
-status: 'draft'
+status: 'published'
 author:
   name: 'Camy'
   picture: ''
