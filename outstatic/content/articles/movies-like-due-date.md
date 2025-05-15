@@ -20,7 +20,7 @@ Starring Zach Galifianakis and [Robert Downey Jr.](https://www.imdb.com/name/nm0
 
 ![Two mismatched strangers embark on a chaotic cross-country road trip in Due Date](/images/due-date-road-trip-comedy-rdj-galifianakis-I3MT.png)
 
-Source-Zach Galifianakis and Robert Downey Jr. in Due Date. Credits: Empire Online
+*source-Zach Galifianakis and Robert Downey Jr. in Due Date. Credits: Empire Online*
 
 **Plot:** Peter Highman, played by Robert Downey Jr., reaches Atlanta airport to get home in time for the birth of his first child, but his encounter with Ethan, played by Zach Galifianakis, derails his schedule. The movie follows a series of disaster events right after Peter steps out of the cab at the airport. What started as a bag switch argument between the two ends led to them getting banned from the airlines.
 
@@ -40,7 +40,7 @@ The comedy genre has always been a roller coaster ride of joy, emotion, supporte
 
 ![A record company intern is tasked with escorting an unpredictable rock star to a concert in Get Him to the Greek](/images/get-him-to-the-greek-comedy-jonah-hill-russell-brand-QyNj.png)
 
-Source: Russell Brand and Jonah Hill in Get Him to the Greek (2010). Credits: IMDb
+*source-Russell Brand and Jonah Hill in Get Him to the Greek (2010). Credits: IMDb*
 
 **Director**: [Nicholas Stoller](https://www.imdb.com/name/nm0831557/)
 
@@ -62,7 +62,7 @@ In this movie, Todd Phillips shifts the gear from directing The Hangover to arms
 
 ![Two young men exploit a government loophole to become international arms dealers in War Dogs](/images/war-dogs-arms-dealers-true-story-jonah-hill-miles-teller-Y2MT.png)
 
-Source-Miles Teller and Jonah Hill in “War Dogs”. Credits: The New Yorker
+*source-Miles Teller and Jonah Hill in “War Dogs”. Credits: The New Yorker*
 
 **Director:** Todd Phillips
 
@@ -84,7 +84,7 @@ A comedy movie about three friends who plan to kill their bosses and their maste
 
 ![Three friends plot to eliminate their unbearable employers in the dark comedy Horrible Bosses](/images/horrible-bosses-dark-comedy-jason-bateman-sudeikis-day-gwNT.png)
 
-Source-Jason Bateman, Charlie Day, and Jason Sudeikis in Horrible Bosses. Credits: IMDb
+*source-Jason Bateman, Charlie Day, and Jason Sudeikis in Horrible Bosses. Credits: IMDb*
 
 **Director:** [Seth Gordon](https://www.imdb.com/name/nm1164861/)
 
@@ -112,7 +112,7 @@ This is another road-trip movie like the Due Date, but this one involves more cr
 
 ![A fake family smuggles drugs across the border in the outrageous road trip comedy We’re the Millers](/images/were-the-millers-fake-family-road-trip-comedy-gzNz.png)
 
-Source-Jennifer Aniston, Nick Offerman, Molly C. Quinn, Emma Roberts, Jason Sudeikis, Kathryn Hahn, and Will Poulter in We're the Millers. Credits: Variety
+*source-Jennifer Aniston, Nick Offerman, Molly C. Quinn, Emma Roberts, Jason Sudeikis, Kathryn Hahn, and Will Poulter in We're the Millers. Credits: Variety*
 
 **Director:** [Rawson Marshall Thurber](https://www.imdb.com/name/nm1098493/)
 
@@ -142,7 +142,7 @@ This comedy movie has been a fan favorite with an irreplaceable cast. Their epic
 
 ![Three friends retrace their wild night in Vegas to find their missing groom in The Hangover](/images/the-hangover-vegas-bachelor-party-comedy-Y3MD.png)
 
-Source-Bradley Cooper, Zach Galifianakis, and Ed Helms in The Hangover. Credits: The Independent
+*source-Bradley Cooper, Zach Galifianakis, and Ed Helms in The Hangover. Credits: The Independent*
 
 **Director:** [Todd Phillips](https://www.imdb.com/name/nm0680846/)
 
@@ -172,7 +172,7 @@ The film features a real tiger in a bathroom, a baby named Carlos, and Mike Tyso
 
 ![An anxious father-to-be is forced to road-trip with an eccentric stranger in Due Date](/images/due-date-road-trip-robert-downey-zach-galifianakis-comedy-A5Nj.png)
 
-Source-Robert Downey Jr., Jamie Foxx, and Zach Galifianakis in Due Date (2010). Source: IMDb
+*source-Robert Downey Jr., Jamie Foxx, and Zach Galifianakis in Due Date (2010). Source: IMDb*
 
 More than the raunchy humor and the two friends' journey cross-country, a movie like Due Date is about trust and making strangers part of the journey in a humanized appeal. In representing two very different characters, the movie reached out to every individual's humane and emotional side. The movie explores the universal attributes of friendship, family, and responsibility, even in a stressful environment.
 
