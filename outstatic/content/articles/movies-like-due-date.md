@@ -1,5 +1,5 @@
 ---
-title: '5 Hilarious movies like Due Date you need to watch'
+title: '5 hilarious movies like Due Date you need to watch'
 status: 'published'
 author:
   name: 'Camy'
