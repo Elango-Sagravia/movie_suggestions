@@ -81,6 +81,19 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify(jsonLd),
           }}
         />
+        <script
+          id="schema-name"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Movie Suggestions",
+              alternateName: "Movie Suggestions",
+              url: "https://www.moviesuggestions.com",
+            }),
+          }}
+        />
         <Script id="gm" strategy="afterInteractive">
           {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -103,6 +116,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     `,
           }}
         />
+        <meta name="application-name" content="Movie Suggestions" />
+        <meta property="og:site_name" content="Movie Suggestions" />
+        <meta name="apple-mobile-web-app-title" content="Movie Suggestions" />
       </head>
 
       <body>
