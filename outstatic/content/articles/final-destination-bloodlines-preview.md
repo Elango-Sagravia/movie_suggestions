@@ -48,7 +48,7 @@ The franchise ended in 2011 with the surprise prequel Final Destination 5, with 
 
 How far will you go to stay alive? Much like the Final Destination series, the Saw, directed by James Wan, is about brutal deaths and relishing the gore on screen. While in the Final Destination the death chooses people who are meant to die, here the killer targets people he believes squander or waste their lives. To stay alive, the characters have to make decisions with life-or-death consequences. This movie started what would become a long-running horror franchise (10+ films) and became a massive cult hit.
 
-![A blood-soaked man gasps for breath in a grimy bathroom in a chilling scene from Saw](/images/saw-bloody-bathroom-scene-man-in-distress-U2Mj.png)*source-Leigh Whannell in Saw. Credits: IMDb*
+![A blood-soaked man gasps for breath in a grimy bathroom in a chilling scene from Saw](/images/saw-bloody-bathroom-scene-man-in-distress-U2Mj.png)*Source-Leigh Whannell in Saw. Credits: IMDb*
 
 **Director:** James Wan
 
@@ -70,7 +70,7 @@ The movie was filmed in 18 days on a tight budget of about $1.2 million. Saw beg
 
 This second installment weaves the death trap formula of the Final Destination franchise. The horror without a haunting killer, bloodsucking vampire, or brain-eating zombies sets this franchise apart from other movies in the genre. The intricate direction of an invisible antagonist that orchestrates violence by leveraging everyday items is also featured in Final Destination 2.
 
-![Three tense characters stand outside a house at night in a suspenseful moment from Final Destination 2](/images/final-destination-2-nighttime-scene-three-character-cwNz.png)*source-Ali Larter, A.J. Cook, and Michael Landes in Final Destination 2. Source: IMDb*
+![Three tense characters stand outside a house at night in a suspenseful moment from Final Destination 2](/images/final-destination-2-nighttime-scene-three-character-cwNz.png)*Source-Ali Larter, A.J. Cook, and Michael Landes in Final Destination 2. Source: IMDb*
 
 **Director:** [David R. Ellis](https://www.imdb.com/name/nm0254786/)
 
@@ -94,7 +94,7 @@ Characters refer to the events of Flight 180, and Clear Rivers, the only survivo
 
 This psychological thriller unlocks the concept of time travel abilities and the map of cheating death, paralleling the [Final Destination](https://www.imdb.com/title/tt0195714/?ref_=fn_all_ttl_2) storyline. In a similar tone to the Final Destination, chaos theory loosely inspires this movie. The Butterfly Effect explores the idea that visiting the past can cause a ripple effect on the present and future.
 
-![Two characters sit tensely across from each other in a diner in a pivotal scene from The Butterfly Effect.](/images/the-butterfly-effect-diner-scene-confrontation-kyOT.png)*source-Ashton Kutcher and Amy Smart in The Butterfly Effect. Source: IMDb*
+![Two characters sit tensely across from each other in a diner in a pivotal scene from The Butterfly Effect.](/images/the-butterfly-effect-diner-scene-confrontation-kyOT.png)*Source-Ashton Kutcher and Amy Smart in The Butterfly Effect. Source: IMDb*
 
 **Directors:** [Eric Bress,](https://www.imdb.com/name/nm0107774/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_%2520Eric%2520Bress) J. Mackye Gruber
 
@@ -118,7 +118,7 @@ In the director’s cut, Evan travels back to before his birth and strangles him
 
 Donnie Darko features elements of time travel and alternate universes. It stars [Jake Gyllenhaal](https://www.imdb.com/name/nm0350453/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Jake%2520Gyllenhaal). The added frames of vortexes and mysterious talking rabbits make this movie more of a psychological horror movie. In this classic science fiction thriller, the nature of reality is challenged and the idea of liberty is explored through the eyes of Donnie Darko, a teenage boy.
 
-![A troubled teen stares ominously while holding a knife in a chilling moment from Donnie Darko](/images/donnie-darko-knife-scene-psychological-thriller-gxNT.png)*source-Jake Gyllenhaal in Donnie Darko (2001). Source: IMDb*
+![A troubled teen stares ominously while holding a knife in a chilling moment from Donnie Darko](/images/donnie-darko-knife-scene-psychological-thriller-gxNT.png)*Source-Jake Gyllenhaal in Donnie Darko (2001). Source: IMDb*
 
 **Director:** [Richard Kelly](https://www.imdb.com/name/nm0446819/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Richard%2520Kelly)
 
@@ -144,7 +144,7 @@ Silver Scream Award in 2022
 
 This psychological thriller explores the storyline of a married couple and an acquaintance from Simon's past. After the encounter with Gordo, the couple is thrown into a terrifying world that includes mysterious encounters and a gift. The movie builds on a stalker thriller for a recently relocated married couple from Chicago to the hills of L.A.’s East Side. The movie tweaks with the Final Destination storyline of being dangerously chased by past events and encounters.
 
-![A dimly lit dinner scene from the movie The Gift, showing three characters—two men and a woman—seated around a table with wine glasses and a candle between them, creating a tense and suspenseful atmosphere.](/images/the-gift-dinner-scene-MxND.png)*source-Jason Bateman, Joel Edgerton, and Rebecca Hall in The Gift. Source: IMDb*
+![A dimly lit dinner scene from the movie The Gift, showing three characters—two men and a woman—seated around a table with wine glasses and a candle between them, creating a tense and suspenseful atmosphere.](/images/the-gift-dinner-scene-MxND.png)*Source-Jason Bateman, Joel Edgerton, and Rebecca Hall in The Gift. Source: IMDb*
 
 **Director:** [Joel Edgerton ](https://www.imdb.com/name/nm0249291/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Joel%2520Edgerton%2520)
 
