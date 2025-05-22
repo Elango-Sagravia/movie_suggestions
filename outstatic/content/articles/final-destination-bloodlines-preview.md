@@ -18,6 +18,8 @@ publishedAt: '2025-05-22T14:22:07.390Z'
 
 Horror veteran [Tony Todd](https://www.imdb.com/name/nm0865302/?ref_=fn_all_nme_1)'s character, William Bludworth, is returning in the latest Final Destination franchise. The reprisal will follow why he knows so much about escaping death. The new release will also curtail the background and how the character is connected with the franchise's core. Todd has appeared in all franchises except the fourth, 2009's The Final Destination.
 
+*![A fiery explosion erupts inside a futuristic tower-top restaurant at sunset in Final Destination: Bloodlines.](/images/final-destination-bloodlines-tower-explosion-scene-c1NT.png)source-Final Destination: Bloodlines (2025). Source: IMDb*
+
 ### #2 A Horror Franchise Back to Life After 14 Years
 
 The horror franchise returns after 14 years since its last release. Final Destination: Bloodlines will give the audience a thrill of fatalities, even more than they have experienced in previous franchises.
@@ -25,6 +27,8 @@ The horror franchise returns after 14 years since its last release. Final Destin
 ### #3 Death’s rules with a twist
 
 Final Destination terrified audiences with the fear of uncontrollable accidents in common areas. The sixth movie revamps the franchise. The twist hinted in the title, Bloodlines, introduces a hereditary element. It suggests that Death may not just be hunting individuals but legacies. Your family's past could now affect your fate, making survival even more complex.
+
+![A woman stands amidst chaos as flames engulf a high-rise restaurant in a tense moment from Final Destination: Bloodlines](/images/final-destination-bloodlines-woman-in-fire-scene-M4Nj.png)*source-Brec Bassinger in Final Destination: Bloodlines. Source: IMDb*
 
 ### #4 An 18-year-old girl as the Protagonist
 
@@ -36,11 +40,15 @@ The reboot of this death saga will follow an 18-year-old girl as the protagonist
 
 ## 5 Movies to gear up before Final Destination Bloodlines
 
+*![A mysterious man sits pensively in a dimly lit room, hinting at deeper secrets in Final Destination: Bloodlines](/images/final-destination-bloodlines-mystery-man-dark-room-kyND.png)source-Tony Todd in Final Destination: Bloodlines. Source: IMDb*
+
 The franchise ended in 2011 with the surprise prequel Final Destination 5, with inescapable deaths and some unresolved plots. The sixth series, *Final Destination Bloodlines,* will answer who Tony Todd’s character, William Bludworth, really is. Do you follow the franchise, and will you be watching the new release? Here are five movies ​to watch in order before Final Destination: Bloodline.
 
 ## Saw (2004)
 
 How far will you go to stay alive? Much like the Final Destination series, the Saw, directed by James Wan, is about brutal deaths and relishing the gore on screen. While in the Final Destination the death chooses people who are meant to die, here the killer targets people he believes squander or waste their lives. To stay alive, the characters have to make decisions with life-or-death consequences. This movie started what would become a long-running horror franchise (10+ films) and became a massive cult hit.
+
+*source-Leigh Whannell in Saw. Credits: IMDb*
 
 **Director:** James Wan
 
@@ -61,6 +69,8 @@ The movie was filmed in 18 days on a tight budget of about $1.2 million. Saw beg
 ## Final Destination 2 (2003)
 
 This second installment weaves the death trap formula of the Final Destination franchise. The horror without a haunting killer, bloodsucking vampire, or brain-eating zombies sets this franchise apart from other movies in the genre. The intricate direction of an invisible antagonist that orchestrates violence by leveraging everyday items is also featured in Final Destination 2.
+
+source-Ali Larter, A.J. Cook, and Michael Landes in Final Destination 2. Source: IMDb
 
 **Director:** [David R. Ellis](https://www.imdb.com/name/nm0254786/)
 
@@ -84,6 +94,8 @@ Characters refer to the events of Flight 180, and Clear Rivers, the only survivo
 
 This psychological thriller unlocks the concept of time travel abilities and the map of cheating death, paralleling the [Final Destination](https://www.imdb.com/title/tt0195714/?ref_=fn_all_ttl_2) storyline. In a similar tone to the Final Destination, chaos theory loosely inspires this movie. The Butterfly Effect explores the idea that visiting the past can cause a ripple effect on the present and future.
 
+source-Ashton Kutcher and Amy Smart in The Butterfly Effect. Source: IMDb
+
 **Directors:** [Eric Bress,](https://www.imdb.com/name/nm0107774/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_%2520Eric%2520Bress) J. Mackye Gruber
 
 **Written by:** Eric Bress, J. Mackye Gruber
@@ -105,6 +117,8 @@ In the director’s cut, Evan travels back to before his birth and strangles him
 ## Donnie Darko (2001)
 
 Donnie Darko features elements of time travel and alternate universes. It stars [Jake Gyllenhaal](https://www.imdb.com/name/nm0350453/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Jake%2520Gyllenhaal). The added frames of vortexes and mysterious talking rabbits make this movie more of a psychological horror movie. In this classic science fiction thriller, the nature of reality is challenged and the idea of liberty is explored through the eyes of Donnie Darko, a teenage boy.
+
+source-Jake Gyllenhaal in Donnie Darko (2001). Source: IMDb
 
 **Director:** [Richard Kelly](https://www.imdb.com/name/nm0446819/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_Richard%2520Kelly)
 
@@ -129,6 +143,8 @@ Silver Scream Award in 2022
 ## The Gift (2015)
 
 This psychological thriller explores the storyline of a married couple and an acquaintance from Simon's past. After the encounter with Gordo, the couple is thrown into a terrifying world that includes mysterious encounters and a gift. The movie builds on a stalker thriller for a recently relocated married couple from Chicago to the hills of L.A.’s East Side. The movie tweaks with the Final Destination storyline of being dangerously chased by past events and encounters.
+
+source-Jason Bateman, Joel Edgerton, and Rebecca Hall in The Gift. Source: IMDb
 
 **Director:** [Joel Edgerton ](https://www.imdb.com/name/nm0249291/?ref_=nv_sr_srsg_0_tt_2_nm_6_in_0_q_Joel%2520Edgerton%2520)
 
