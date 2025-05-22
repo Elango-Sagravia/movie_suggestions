@@ -18,7 +18,9 @@ publishedAt: '2025-05-22T14:22:07.390Z'
 
 Horror veteran [Tony Todd](https://www.imdb.com/name/nm0865302/?ref_=fn_all_nme_1)'s character, William Bludworth, is returning in the latest Final Destination franchise. The reprisal will follow why he knows so much about escaping death. The new release will also curtail the background and how the character is connected with the franchise's core. Todd has appeared in all franchises except the fourth, 2009's The Final Destination.
 
-*![A fiery explosion erupts inside a futuristic tower-top restaurant at sunset in Final Destination: Bloodlines.](/images/final-destination-bloodlines-tower-explosion-scene-AyNz.png)Source-Final Destination: Bloodlines (2025). Source: IMDb*
+*![A fiery explosion erupts inside a futuristic tower-top restaurant at sunset in Final Destination: Bloodlines.](/images/final-destination-bloodlines-tower-explosion-scene-AyNz.png)*
+
+*source-Final Destination: Bloodlines (2025). Source: IMDb*
 
 ### #2 A Horror Franchise Back to Life After 14 Years
 
