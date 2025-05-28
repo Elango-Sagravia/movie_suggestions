@@ -97,3 +97,12 @@ input {
     margin-bottom: 20px;
   }
 }
+
+.archive-page-slug ::selection {
+  background-color: #f9d543;
+  color: gray;
+}
+body ::selection {
+  background-color: #f9d543;
+  color: gray;
+}
