@@ -54,10 +54,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link
-                  target="_blank"
-                  href="https://x.com/MovieSuggest"
-                >
+                <Link target="_blank" href="https://x.com/MovieSuggest">
                   X
                 </Link>
               </li>
@@ -86,6 +83,9 @@ export default function Footer() {
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/archives">Archives</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="/articles">Articles</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/contact">Contact us</Link>
@@ -127,10 +127,7 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li className="py-2 hover:underline underline-offset-8">
-                  <Link
-                    target="_blank"
-                    href="https://x.com/MovieSuggest"
-                  >
+                  <Link target="_blank" href="https://x.com/MovieSuggest">
                     X
                   </Link>
                 </li>
@@ -159,6 +156,9 @@ export default function Footer() {
                 </li>
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link href="/archives">Archives</Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link href="/articles">Articles</Link>
                 </li>
                 <li className="py-2 hover:underline underline-offset-8">
                   <Link href="/contact">Contact us</Link>
