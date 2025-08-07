@@ -47,8 +47,8 @@ const content = {
         {
           title: "Front desk",
           type: "phone",
-          href: "+1 (307) 429-0673",
-          content: "(307) 429-0673",
+          href: "+1 218 500 0099",
+          content: "1 218 500 0099",
         },
       ],
     },
@@ -72,8 +72,8 @@ const content = {
         {
           title: "Front desk",
           type: "phone",
-          href: "+1 (307) 429-0673",
-          content: "(307) 429-0673",
+          href: "+1 218 500 0099",
+          content: "1 218 500 0099",
         },
       ],
     },
